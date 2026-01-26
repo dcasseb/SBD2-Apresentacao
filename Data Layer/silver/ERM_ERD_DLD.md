@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 Índice
+## Índice
 
 1. [MER - Modelo Entidade-Relacionamento](#mer---modelo-entidade-relacionamento)
 2. [DER - Diagrama Entidade-Relacionamento](#der---diagrama-entidade-relacionamento)
@@ -662,4 +662,4 @@ Raw Layer (CSV)
 **Versão:** 1.0
 **Data:** 2026-01-26
 **Autor:** ETL Pipeline - Silver Layer
-**Status:** ✅ Produção
+**Status:** Produção
