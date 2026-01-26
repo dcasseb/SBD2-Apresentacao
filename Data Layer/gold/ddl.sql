@@ -7,27 +7,10 @@
 CREATE SCHEMA IF NOT EXISTS gold;
 
 -- ============================================
--- FATO: Crimes
+-- DIMENSÕES (criar antes da fato para FKs)
 -- ============================================
-CREATE TABLE IF NOT EXISTS gold.fato_crimes (
-    sk_crime SERIAL PRIMARY KEY,
-    nk_crime_id BIGINT NOT NULL,
-    sk_area INTEGER REFERENCES gold.dim_area(sk_area),
-    sk_crime_type INTEGER REFERENCES gold.dim_crime_type(sk_crime_type),
-    sk_weapon INTEGER REFERENCES gold.dim_weapon(sk_weapon),
-    sk_premise INTEGER REFERENCES gold.dim_premise(sk_premise),
-    sk_date INTEGER REFERENCES gold.dim_date(sk_date),
-    sk_time INTEGER REFERENCES gold.dim_time(sk_time),
-    sk_victim INTEGER REFERENCES gold.dim_victim(sk_victim),
-    latitude DECIMAL(10, 6),
-    longitude DECIMAL(10, 6),
-    is_violent BOOLEAN,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
 
--- ============================================
 -- DIMENSÃO: Área
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_area (
     sk_area SERIAL PRIMARY KEY,
     area_code INTEGER NOT NULL,
@@ -36,9 +19,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_area (
     UNIQUE(area_code)
 );
 
--- ============================================
 -- DIMENSÃO: Tipo de Crime
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_crime_type (
     sk_crime_type SERIAL PRIMARY KEY,
     crime_code INTEGER NOT NULL,
@@ -49,9 +30,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_crime_type (
     UNIQUE(crime_code)
 );
 
--- ============================================
 -- DIMENSÃO: Arma
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_weapon (
     sk_weapon SERIAL PRIMARY KEY,
     weapon_code INTEGER,
@@ -61,9 +40,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_weapon (
     UNIQUE(weapon_code)
 );
 
--- ============================================
 -- DIMENSÃO: Local (Premise)
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_premise (
     sk_premise SERIAL PRIMARY KEY,
     premise_code INTEGER NOT NULL,
@@ -73,9 +50,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_premise (
     UNIQUE(premise_code)
 );
 
--- ============================================
 -- DIMENSÃO: Data
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_date (
     sk_date SERIAL PRIMARY KEY,
     full_date DATE NOT NULL,
@@ -92,9 +67,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_date (
     UNIQUE(full_date)
 );
 
--- ============================================
 -- DIMENSÃO: Tempo
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_time (
     sk_time SERIAL PRIMARY KEY,
     full_time TIME NOT NULL,
@@ -105,9 +78,7 @@ CREATE TABLE IF NOT EXISTS gold.dim_time (
     UNIQUE(full_time)
 );
 
--- ============================================
 -- DIMENSÃO: Vítima
--- ============================================
 CREATE TABLE IF NOT EXISTS gold.dim_victim (
     sk_victim SERIAL PRIMARY KEY,
     age_group VARCHAR(20),
@@ -115,6 +86,25 @@ CREATE TABLE IF NOT EXISTS gold.dim_victim (
     descent CHAR(1),
     descent_description VARCHAR(50),
     UNIQUE(age_group, sex, descent)
+);
+
+-- ============================================
+-- FATO: Crimes (criar depois das dimensões)
+-- ============================================
+CREATE TABLE IF NOT EXISTS gold.fato_crimes (
+    sk_crime SERIAL PRIMARY KEY,
+    nk_crime_id BIGINT NOT NULL,
+    sk_area INTEGER REFERENCES gold.dim_area(sk_area),
+    sk_crime_type INTEGER REFERENCES gold.dim_crime_type(sk_crime_type),
+    sk_weapon INTEGER REFERENCES gold.dim_weapon(sk_weapon),
+    sk_premise INTEGER REFERENCES gold.dim_premise(sk_premise),
+    sk_date INTEGER REFERENCES gold.dim_date(sk_date),
+    sk_time INTEGER REFERENCES gold.dim_time(sk_time),
+    sk_victim INTEGER REFERENCES gold.dim_victim(sk_victim),
+    latitude DECIMAL(10, 6),
+    longitude DECIMAL(10, 6),
+    is_violent BOOLEAN,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- ============================================

@@ -1,0 +1,214 @@
+age_group,sex,descent,sk_victim
+36-50,Female,Hispanic/Latino,1
+51-65,Female,White,2
+36-50,Male,Black,3
+65+,Male,White,4
+18-25,Male,Black,5
+51-65,Male,White,6
+26-35,Male,Other Asian,7
+26-35,Male,Other,8
+36-50,Male,Hispanic/Latino,9
+Unknown,Male,Other,10
+18-25,Female,White,11
+26-35,Male,Hispanic/Latino,12
+26-35,Female,Hispanic/Latino,13
+36-50,Female,Black,14
+51-65,Male,Hispanic/Latino,15
+26-35,Male,White,16
+36-50,Female,White,17
+18-25,Female,Hispanic/Latino,18
+Unknown,Male,Unknown,19
+36-50,Male,White,20
+26-35,Female,Black,21
+26-35,Male,Black,22
+36-50,Female,Other,23
+18-25,Female,Black,24
+18-25,Male,Hispanic/Latino,25
+18-25,Male,White,26
+26-35,Male,Unknown,27
+18-25,Unknown,Unknown,28
+51-65,Male,Black,29
+36-50,Female,Other Asian,30
+65+,Male,Hispanic/Latino,31
+0-17,Male,Hispanic/Latino,32
+65+,Female,White,33
+51-65,Female,Other Asian,34
+65+,Female,Hispanic/Latino,35
+51-65,Female,Hispanic/Latino,36
+36-50,Male,Other Asian,37
+0-17,Female,Hispanic/Latino,38
+26-35,Female,White,39
+51-65,Male,Other,40
+26-35,Female,Other,41
+51-65,Female,Other,42
+36-50,Male,Other,43
+18-25,Male,Other,44
+51-65,Female,Black,45
+0-17,Male,Black,46
+26-35,Male,Korean,47
+Unknown,Female,Vietnamese,48
+Unknown,Male,White,49
+51-65,Female,Japanese,50
+65+,Male,Other,51
+26-35,Female,Japanese,52
+51-65,Male,Other Asian,53
+0-17,Unknown,Unknown,54
+Unknown,Male,Black,55
+26-35,Female,Other Asian,56
+26-35,Female,Korean,57
+51-65,Male,Vietnamese,58
+65+,Female,Black,59
+36-50,Female,Vietnamese,60
+18-25,Female,Other,61
+18-25,Female,Other Asian,62
+36-50,Female,Filipino,63
+65+,Male,Black,64
+36-50,Unknown,Unknown,65
+0-17,Female,White,66
+65+,Male,Other Asian,67
+Unknown,Female,Black,68
+Unknown,Female,White,69
+36-50,Male,Korean,70
+65+,Female,Other Asian,71
+Unknown,Male,Hispanic/Latino,72
+Unknown,Female,Hispanic/Latino,73
+51-65,Male,Unknown,74
+26-35,Female,Chinese,75
+18-25,Female,Unknown,76
+36-50,Male,Unknown,77
+26-35,Female,Unknown,78
+51-65,Male,Korean,79
+65+,Female,Other,80
+18-25,Unknown,White,81
+0-17,Female,Black,82
+65+,Male,Korean,83
+36-50,Female,Korean,84
+18-25,Male,Korean,85
+18-25,Female,Filipino,86
+36-50,Male,Hawaiian,87
+26-35,Male,Chinese,88
+18-25,Male,Other Asian,89
+0-17,Female,Other,90
+18-25,Female,Asian Indian,91
+26-35,Male,American Indian,92
+0-17,Male,White,93
+18-25,Female,Chinese,94
+36-50,Male,Filipino,95
+51-65,Female,Filipino,96
+Unknown,Male,Other Asian,97
+36-50,Female,Chinese,98
+36-50,Male,Japanese,99
+51-65,Female,Korean,100
+36-50,Male,Chinese,101
+51-65,Male,Japanese,102
+0-17,Female,Other Asian,103
+26-35,Unknown,Unknown,104
+36-50,Female,Hawaiian,105
+18-25,Male,Vietnamese,106
+0-17,Male,Other,107
+0-17,Male,Filipino,108
+65+,Female,Filipino,109
+51-65,Male,Chinese,110
+36-50,Female,Unknown,111
+Unknown,Female,Other,112
+18-25,Male,Chinese,113
+26-35,Male,Asian Indian,114
+65+,Unknown,Unknown,115
+36-50,Unknown,Filipino,116
+18-25,Male,American Indian,117
+26-35,Female,Asian Indian,118
+26-35,Female,Filipino,119
+Unknown,Female,Unknown,120
+26-35,Male,Filipino,121
+51-65,Male,Filipino,122
+36-50,Male,Pacific Islander,123
+18-25,Male,Unknown,124
+65+,Male,Unknown,125
+65+,Female,Korean,126
+26-35,Unknown,White,127
+51-65,Male,American Indian,128
+18-25,Male,Filipino,129
+18-25,Female,Korean,130
+36-50,Unknown,Hispanic/Latino,131
+51-65,Female,Chinese,132
+26-35,Unknown,Filipino,133
+36-50,Male,Vietnamese,134
+36-50,Unknown,Other,135
+26-35,Male,Guamanian,136
+51-65,Female,Pacific Islander,137
+65+,Male,Chinese,138
+26-35,Female,American Indian,139
+36-50,Female,Japanese,140
+26-35,Male,Japanese,141
+26-35,Male,Vietnamese,142
+65+,Male,American Indian,143
+36-50,Female,American Indian,144
+18-25,Unknown,Chinese,145
+65+,Male,Japanese,146
+26-35,Female,Vietnamese,147
+65+,Female,Japanese,148
+26-35,Unknown,Hispanic/Latino,149
+18-25,Female,Japanese,150
+51-65,Male,Asian Indian,151
+26-35,Female,Pacific Islander,152
+18-25,Unknown,Hispanic/Latino,153
+0-17,Female,Unknown,154
+26-35,Female,Hawaiian,155
+26-35,Female,Guamanian,156
+0-17,Male,Other Asian,157
+36-50,Male,American Indian,158
+36-50,Female,Pacific Islander,159
+51-65,Female,American Indian,160
+26-35,Unknown,Black,161
+51-65,Female,Unknown,162
+65+,Male,Vietnamese,163
+18-25,Unknown,Other Asian,164
+51-65,Unknown,Unknown,165
+18-25,Male,Asian Indian,166
+18-25,Male,Japanese,167
+0-17,Unknown,Hispanic/Latino,168
+65+,Male,Asian Indian,169
+51-65,Male,Pacific Islander,170
+26-35,Unknown,Other,171
+18-25,Female,Vietnamese,172
+65+,Female,Chinese,173
+36-50,Unknown,White,174
+65+,Female,Unknown,175
+Unknown,Male,Filipino,176
+36-50,Female,Asian Indian,177
+65+,Unknown,Filipino,178
+51-65,Female,Vietnamese,179
+51-65,Female,Hawaiian,180
+26-35,Female,Laotian,181
+51-65,Unknown,Hispanic/Latino,182
+0-17,Female,Chinese,183
+18-25,Female,American Indian,184
+51-65,Male,Cambodian,185
+51-65,Male,Hawaiian,186
+Unknown,Male,Vietnamese,187
+36-50,Male,Asian Indian,188
+36-50,Unknown,Black,189
+18-25,Female,Hawaiian,190
+26-35,Male,Pacific Islander,191
+26-35,Unknown,Chinese,192
+0-17,Male,Unknown,193
+36-50,Male,Cambodian,194
+26-35,Female,Cambodian,195
+36-50,Male,Laotian,196
+26-35,Male,Samoan,197
+Unknown,Male,Hawaiian,198
+0-17,Female,Vietnamese,199
+65+,Male,Filipino,200
+Unknown,Female,Other Asian,201
+18-25,Female,Cambodian,202
+51-65,Unknown,Black,203
+36-50,Female,Guamanian,204
+26-35,Male,Laotian,205
+65+,Unknown,Hispanic/Latino,206
+18-25,Female,Guamanian,207
+51-65,Unknown,White,208
+Unknown,Female,Korean,209
+51-65,Female,Asian Indian,210
+65+,Unknown,Other,211
+51-65,Unknown,American Indian,212
+Unknown,Male,Korean,213
