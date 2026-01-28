@@ -32,27 +32,27 @@ TRUNCATE_BEFORE_LOAD = True  # Truncar tabelas antes de carregar
 # Criar diretório gold se não existir
 os.makedirs(GOLD_PATH, exist_ok=True)
 
-print(f"📁 Projeto: {PROJECT_ROOT}")
-print(f"📥 Silver: PostgreSQL ({POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB})")
-print(f"📤 Gold: PostgreSQL ({POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}) + CSV backups")
-print(f"🧱 DDL: {DDL_PATH}")
+print(f"Projeto: {PROJECT_ROOT}")
+print(f"Silver: PostgreSQL ({POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB})")
+print(f"Gold: PostgreSQL ({POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}) + CSV backups")
+print(f"DDL: {DDL_PATH}")
 
 # Carregar dados Silver do PostgreSQL
 engine = create_engine(DB_URL)
 
 # Aplicar DDL da camada Gold
-print("🏗️  Aplicando DDL da camada Gold...")
+print("Aplicando DDL da camada Gold...")
 with engine.begin() as conn:
     ddl_sql = DDL_PATH.read_text(encoding="utf-8")
     for stmt in ddl_sql.split(";"):
         stmt = stmt.strip()
         if stmt:
             conn.exec_driver_sql(stmt)
-print("✅ Schema Gold criado/atualizado")
+print("Schema Gold criado/atualizado")
 
 # Limpar tabelas antes de carregar (se configurado)
 if TRUNCATE_BEFORE_LOAD:
-    print("🧹 Limpando tabelas Gold...")
+    print("Limpando tabelas Gold...")
     with engine.begin() as conn:
         # Drop e recreate é mais simples com pandas - drop todas as tabelas
         conn.exec_driver_sql("DROP TABLE IF EXISTS gold.fato_crimes CASCADE")
@@ -63,20 +63,20 @@ if TRUNCATE_BEFORE_LOAD:
         conn.exec_driver_sql("DROP TABLE IF EXISTS gold.dim_victim CASCADE")
         conn.exec_driver_sql("DROP TABLE IF EXISTS gold.agg_area_month CASCADE")
         conn.exec_driver_sql("DROP TABLE IF EXISTS gold.agg_crime_year CASCADE")
-    print("✅ Tabelas antigas removidas")
+    print("Tabelas antigas removidas")
 
 # Carregar dados Silver
-print("\n📥 Carregando dados da camada Silver...")
+print("\nCarregando dados da camada Silver...")
 df_silver = pd.read_sql("SELECT * FROM silver.crimes", engine)
 
 # Datas já estão no formato correto do PostgreSQL
 
-print(f"✅ Dados Silver carregados: {len(df_silver):,} registros")
-print(f"📋 Colunas: {len(df_silver.columns)}")
+print(f"Dados Silver carregados: {len(df_silver):,} registros")
+print(f"Colunas: {len(df_silver.columns)}")
 df_silver.head(3)
 
 # Validações padronizadas de schema e qualidade (Silver)
-print("🧪 Validando schema e qualidade...")
+print("Validando schema e qualidade...")
 
 required_cols = [
     'crime_id', 'date_occurred', 'date_reported', 'hour',
@@ -146,22 +146,22 @@ def validate_silver_schema(df):
 
 errors, warnings = validate_silver_schema(df_silver)
 if warnings:
-    print("⚠️ Avisos:")
+    print("Avisos:")
     for w in warnings:
         print(f"   - {w}")
 
 if errors:
-    print("❌ Erros:")
+    print("Erros:")
     for e in errors:
         print(f"   - {e}")
     raise ValueError("Falha nas validações de schema/qualidade. Corrija antes de gerar a Gold.")
 else:
-    print("✅ Validações concluídas com sucesso.")
+    print("Validações concluídas com sucesso.")
 
 ## Criação das Dimensões
 
 # Dimensão: Data (dim_date)
-print("📅 Criando dim_date...")
+print("Criando dim_date...")
 
 dim_date = df_silver[['date_occurred']].drop_duplicates().copy()
 dim_date = dim_date.dropna()
@@ -182,10 +182,10 @@ dim_date = dim_date.drop(columns=['date_occurred'])
 dim_date.to_sql('dim_date', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     dim_date.to_csv(GOLD_PATH / 'dim_date.csv', index=False)
-print(f"   ✅ dim_date: {len(dim_date):,} registros (PostgreSQL + CSV)")
+print(f"   dim_date: {len(dim_date):,} registros (PostgreSQL + CSV)")
 
 # Dimensão: Tempo (dim_time)
-print("⏰ Criando dim_time...")
+print("Criando dim_time...")
 
 dim_time = pd.DataFrame({'hour': range(24)})
 dim_time['sk_time'] = dim_time['hour'] + 1
@@ -198,10 +198,10 @@ dim_time['is_rush_hour'] = dim_time['hour'].isin([7, 8, 9, 17, 18, 19])
 dim_time.to_sql('dim_time', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     dim_time.to_csv(GOLD_PATH / 'dim_time.csv', index=False)
-print(f"   ✅ dim_time: {len(dim_time):,} registros (PostgreSQL + CSV)")
+print(f"   dim_time: {len(dim_time):,} registros (PostgreSQL + CSV)")
 
 # Dimensão: Área (dim_area)
-print("📍 Criando dim_area...")
+print("Criando dim_area...")
 
 dim_area = df_silver[['area_code', 'area_name']].drop_duplicates().copy()
 dim_area['sk_area'] = range(1, len(dim_area) + 1)
@@ -225,10 +225,10 @@ dim_area['region'] = dim_area['area_name'].apply(get_region)
 dim_area.to_sql('dim_area', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     dim_area.to_csv(GOLD_PATH / 'dim_area.csv', index=False)
-print(f"   ✅ dim_area: {len(dim_area):,} registros (PostgreSQL + CSV)")
+print(f"   dim_area: {len(dim_area):,} registros (PostgreSQL + CSV)")
 
 # Dimensão: Tipo de Crime (dim_crime_type)
-print("🔍 Criando dim_crime_type...")
+print("Criando dim_crime_type...")
 
 dim_crime_type = df_silver[['crime_code', 'crime_description', 'crime_category', 'crime_severity']].drop_duplicates().copy()
 dim_crime_type['sk_crime_type'] = range(1, len(dim_crime_type) + 1)
@@ -239,10 +239,10 @@ dim_crime_type['severity_level'] = dim_crime_type['crime_severity'].map({'Seriou
 dim_crime_type.to_sql('dim_crime_type', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     dim_crime_type.to_csv(GOLD_PATH / 'dim_crime_type.csv', index=False)
-print(f"   ✅ dim_crime_type: {len(dim_crime_type):,} registros (PostgreSQL + CSV)")
+print(f"   dim_crime_type: {len(dim_crime_type):,} registros (PostgreSQL + CSV)")
 
 # Dimensão: Vítima (dim_victim)
-print("👤 Criando dim_victim...")
+print("Criando dim_victim...")
 
 dim_victim = df_silver[['victim_age_group', 'victim_sex_desc', 'victim_descent_desc']].drop_duplicates().copy()
 dim_victim['sk_victim'] = range(1, len(dim_victim) + 1)
@@ -256,12 +256,12 @@ dim_victim = dim_victim.rename(columns={
 dim_victim.to_sql('dim_victim', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     dim_victim.to_csv(GOLD_PATH / 'dim_victim.csv', index=False)
-print(f"   ✅ dim_victim: {len(dim_victim):,} registros (PostgreSQL + CSV)")
+print(f"   dim_victim: {len(dim_victim):,} registros (PostgreSQL + CSV)")
 
 ## Criação da Tabela Fato
 
 # Tabela Fato: fato_crimes
-print("📊 Criando fato_crimes...")
+print("Criando fato_crimes...")
 
 # Criar mapeamentos de surrogate keys
 date_map = dim_date.set_index('full_date')['sk_date'].to_dict()
@@ -297,12 +297,12 @@ fato['case_closed'] = df_silver['case_closed'].values
 fato.to_sql('fato_crimes', engine, schema='gold', if_exists='fail', index=False, chunksize=5000, method='multi')
 if SAVE_CSV_BACKUP:
     fato.to_csv(GOLD_PATH / 'fato_crimes.csv', index=False)
-print(f"   ✅ fato_crimes: {len(fato):,} registros (PostgreSQL + CSV)")
+print(f"   fato_crimes: {len(fato):,} registros (PostgreSQL + CSV)")
 
 ## Criação das Agregações
 
 # Agregação: Crimes por Área e Mês
-print("📈 Criando agregações...")
+print("Criando agregações...")
 
 agg_area_month = df_silver.groupby(['area_name', 'year', 'month']).agg(
     total_crimes=('crime_id', 'count'),
@@ -315,7 +315,7 @@ agg_area_month = df_silver.groupby(['area_name', 'year', 'month']).agg(
 agg_area_month.to_sql('agg_area_month', engine, schema='gold', if_exists='fail', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     agg_area_month.to_csv(GOLD_PATH / 'agg_area_month.csv', index=False)
-print(f"   ✅ agg_area_month: {len(agg_area_month):,} registros (PostgreSQL + CSV)")
+print(f"   agg_area_month: {len(agg_area_month):,} registros (PostgreSQL + CSV)")
 
 # Agregação: Crimes por Tipo e Ano
 agg_crime_year = df_silver.groupby(['crime_description', 'crime_category', 'year']).agg(
@@ -327,15 +327,15 @@ agg_crime_year = df_silver.groupby(['crime_description', 'crime_category', 'year
 agg_crime_year.to_sql('agg_crime_year', engine, schema='gold', if_exists='replace', index=False, method='multi')
 if SAVE_CSV_BACKUP:
     agg_crime_year.to_csv(GOLD_PATH / 'agg_crime_year.csv', index=False)
-print(f"   ✅ agg_crime_year: {len(agg_crime_year):,} registros (PostgreSQL + CSV)")
+print(f"   agg_crime_year: {len(agg_crime_year):,} registros (PostgreSQL + CSV)")
 
 # Resumo final
 print("\n" + "="*50)
-print("✅ ETL Silver → Gold concluído!")
+print("ETL Silver → Gold concluído!")
 print("="*50)
 
 # Verificar dados carregados no PostgreSQL
-print("\n📊 Resumo do carregamento (PostgreSQL):")
+print("\nResumo do carregamento (PostgreSQL):")
 with engine.connect() as conn:
     tables_to_check = [
         'dim_date', 'dim_time', 'dim_area', 'dim_crime_type', 'dim_victim',
@@ -344,13 +344,13 @@ with engine.connect() as conn:
     for table in tables_to_check:
         result = conn.execute(text(f"SELECT COUNT(*) FROM gold.{table}"))
         count = result.scalar()
-        print(f"   📊 gold.{table}: {count:,} registros")
+        print(f"   gold.{table}: {count:,} registros")
 
 if SAVE_CSV_BACKUP:
-    print("\n📁 Arquivos CSV de backup:")
+    print("\nArquivos CSV de backup:")
     for f in sorted(GOLD_PATH.glob('*.csv')):
         size_kb = f.stat().st_size / 1024
-        print(f"   📁 {f.name}: {size_kb:.1f} KB")
-    print(f"\n📂 Diretório CSV: {GOLD_PATH}")
+        print(f"   {f.name}: {size_kb:.1f} KB")
+    print(f"\nDiretório CSV: {GOLD_PATH}")
 
-print(f"\n🗄️  Base de dados Gold: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")
+print(f"\nBase de dados Gold: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")

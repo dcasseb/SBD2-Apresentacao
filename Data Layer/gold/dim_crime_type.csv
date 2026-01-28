@@ -1,112 +1,109 @@
 crime_code,crime_description,crime_category,crime_severity,sk_crime_type,is_violent,severity_level
-230,"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT",Violent Crime,Serious,1,True,3
-354,THEFT OF IDENTITY,Property Crime,Minor,2,False,1
-331,THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER),Property Crime,Serious,3,False,3
-649,DOCUMENT FORGERY / STOLEN FELONY,Property Crime,Minor,4,False,1
-330,BURGLARY FROM VEHICLE,Property Crime,Serious,5,False,3
-210,ROBBERY,Violent Crime,Serious,6,True,3
-440,THEFT PLAIN - PETTY ($950 & UNDER),Property Crime,Serious,7,False,3
-310,BURGLARY,Property Crime,Serious,8,False,3
-888,TRESPASSING,Quality of Life,Minor,9,False,1
-900,VIOLATION OF COURT ORDER,Other Crime,Minor,10,False,1
-624,BATTERY - SIMPLE ASSAULT,Violent Crime,Minor,11,True,1
-420,THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER),Property Crime,Serious,12,False,3
-740,"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)",Quality of Life,Minor,13,False,1
-745,VANDALISM - MISDEAMEANOR ($399 OR UNDER),Quality of Life,Minor,14,False,1
-480,BIKE - STOLEN,Property Crime,Serious,15,False,3
-231,ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER,Violent Crime,Serious,16,True,3
-956,"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD",Other Crime,Minor,17,False,1
-421,THEFT FROM MOTOR VEHICLE - ATTEMPT,Property Crime,Serious,18,False,3
-110,CRIMINAL HOMICIDE,Violent Crime,Serious,19,True,3
-930,CRIMINAL THREATS - NO WEAPON DISPLAYED,Other Crime,Minor,20,False,1
-761,BRANDISH WEAPON,Other Crime,Serious,21,False,3
-626,INTIMATE PARTNER - SIMPLE ASSAULT,Violent Crime,Minor,22,True,1
-341,"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD",Property Crime,Serious,23,False,3
-901,VIOLATION OF RESTRAINING ORDER,Other Crime,Minor,24,False,1
-668,"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)",Property Crime,Minor,25,False,1
-627,CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT,Violent Crime,Minor,26,True,1
-860,BATTERY WITH SEXUAL CONTACT,Violent Crime,Minor,27,True,1
-622,BATTERY ON A FIREFIGHTER,Violent Crime,Minor,28,True,1
-946,OTHER MISCELLANEOUS CRIME,Other Crime,Minor,29,False,1
-442,SHOPLIFTING - PETTY THEFT ($950 & UNDER),Property Crime,Serious,30,False,3
-236,INTIMATE PARTNER - AGGRAVATED ASSAULT,Violent Crime,Serious,31,True,3
-220,ATTEMPTED ROBBERY,Violent Crime,Serious,32,True,3
-343,SHOPLIFTING-GRAND THEFT ($950.01 & OVER),Property Crime,Serious,33,False,3
-251,SHOTS FIRED AT INHABITED DWELLING,Other Crime,Serious,34,False,3
-121,"RAPE, FORCIBLE",Violent Crime,Serious,35,True,3
-662,"BUNCO, GRAND THEFT",Property Crime,Minor,36,False,1
-902,VIOLATION OF TEMPORARY RESTRAINING ORDER,Other Crime,Minor,37,False,1
-910,KIDNAPPING,Violent Crime,Minor,38,True,1
-820,ORAL COPULATION,Other Crime,Serious,39,False,3
-623,BATTERY POLICE (SIMPLE),Violent Crime,Minor,40,True,1
-522,"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)",Property Crime,Serious,41,False,3
-821,SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH,Other Crime,Serious,42,False,3
-437,RESISTING ARREST,Other Crime,Minor,43,False,1
-434,FALSE IMPRISONMENT,Other Crime,Minor,44,False,1
-520,VEHICLE - ATTEMPT STOLEN,Property Crime,Serious,45,False,3
-815,SEXUAL PENETRATION W/FOREIGN OBJECT,Other Crime,Serious,46,False,3
-320,"BURGLARY, ATTEMPTED",Property Crime,Serious,47,False,3
-647,THROWING OBJECT AT MOVING VEHICLE,Property Crime,Minor,48,False,1
-753,DISCHARGE FIREARMS/SHOTS FIRED,Other Crime,Minor,49,False,1
-625,OTHER ASSAULT,Violent Crime,Minor,50,True,1
+354,THEFT OF IDENTITY,Property Crime,Minor,1,False,1
+331,THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER),Property Crime,Serious,2,False,3
+330,BURGLARY FROM VEHICLE,Property Crime,Serious,3,False,3
+210,ROBBERY,Violent Crime,Serious,4,True,3
+440,THEFT PLAIN - PETTY ($950 & UNDER),Property Crime,Serious,5,False,3
+310,BURGLARY,Property Crime,Serious,6,False,3
+230,"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT",Violent Crime,Serious,7,True,3
+888,TRESPASSING,Quality of Life,Minor,8,False,1
+900,VIOLATION OF COURT ORDER,Other Crime,Minor,9,False,1
+420,THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER),Property Crime,Serious,10,False,3
+740,"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)",Quality of Life,Minor,11,False,1
+745,VANDALISM - MISDEAMEANOR ($399 OR UNDER),Quality of Life,Minor,12,False,1
+624,BATTERY - SIMPLE ASSAULT,Violent Crime,Minor,13,True,1
+231,ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER,Violent Crime,Serious,14,True,3
+956,"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD",Other Crime,Minor,15,False,1
+421,THEFT FROM MOTOR VEHICLE - ATTEMPT,Property Crime,Serious,16,False,3
+110,CRIMINAL HOMICIDE,Violent Crime,Serious,17,True,3
+930,CRIMINAL THREATS - NO WEAPON DISPLAYED,Other Crime,Minor,18,False,1
+626,INTIMATE PARTNER - SIMPLE ASSAULT,Violent Crime,Minor,19,True,1
+668,"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)",Property Crime,Minor,20,False,1
+627,CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT,Violent Crime,Minor,21,True,1
+860,BATTERY WITH SEXUAL CONTACT,Violent Crime,Minor,22,True,1
+622,BATTERY ON A FIREFIGHTER,Violent Crime,Minor,23,True,1
+946,OTHER MISCELLANEOUS CRIME,Other Crime,Minor,24,False,1
+341,"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD",Property Crime,Serious,25,False,3
+236,INTIMATE PARTNER - AGGRAVATED ASSAULT,Violent Crime,Serious,26,True,3
+343,SHOPLIFTING-GRAND THEFT ($950.01 & OVER),Property Crime,Serious,27,False,3
+251,SHOTS FIRED AT INHABITED DWELLING,Other Crime,Serious,28,False,3
+121,"RAPE, FORCIBLE",Violent Crime,Serious,29,True,3
+662,"BUNCO, GRAND THEFT",Property Crime,Minor,30,False,1
+761,BRANDISH WEAPON,Other Crime,Serious,31,False,3
+902,VIOLATION OF TEMPORARY RESTRAINING ORDER,Other Crime,Minor,32,False,1
+649,DOCUMENT FORGERY / STOLEN FELONY,Property Crime,Minor,33,False,1
+910,KIDNAPPING,Violent Crime,Minor,34,True,1
+820,ORAL COPULATION,Other Crime,Serious,35,False,3
+623,BATTERY POLICE (SIMPLE),Violent Crime,Minor,36,True,1
+522,"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)",Property Crime,Serious,37,False,3
+220,ATTEMPTED ROBBERY,Violent Crime,Serious,38,True,3
+442,SHOPLIFTING - PETTY THEFT ($950 & UNDER),Property Crime,Serious,39,False,3
+821,SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH,Other Crime,Serious,40,False,3
+437,RESISTING ARREST,Other Crime,Minor,41,False,1
+434,FALSE IMPRISONMENT,Other Crime,Minor,42,False,1
+520,VEHICLE - ATTEMPT STOLEN,Property Crime,Serious,43,False,3
+815,SEXUAL PENETRATION W/FOREIGN OBJECT,Other Crime,Serious,44,False,3
+320,"BURGLARY, ATTEMPTED",Property Crime,Serious,45,False,3
+647,THROWING OBJECT AT MOVING VEHICLE,Property Crime,Minor,46,False,1
+753,DISCHARGE FIREARMS/SHOTS FIRED,Other Crime,Minor,47,False,1
+480,BIKE - STOLEN,Property Crime,Serious,48,False,3
+625,OTHER ASSAULT,Violent Crime,Minor,49,True,1
+901,VIOLATION OF RESTRAINING ORDER,Other Crime,Minor,50,False,1
 813,CHILD ANNOYING (17YRS & UNDER),Other Crime,Minor,51,False,1
 903,CONTEMPT OF COURT,Other Crime,Minor,52,False,1
 928,THREATENING PHONE CALLS/LETTERS,Other Crime,Minor,53,False,1
 350,"THEFT, PERSON",Property Crime,Serious,54,False,3
-940,EXTORTION,Other Crime,Minor,55,False,1
-352,PICKPOCKET,Other Crime,Serious,56,False,3
-763,STALKING,Other Crime,Minor,57,False,1
-886,DISTURBING THE PEACE,Quality of Life,Minor,58,False,1
-762,LEWD CONDUCT,Other Crime,Minor,59,False,1
-648,ARSON,Other Crime,Serious,60,False,3
-122,"RAPE, ATTEMPTED",Violent Crime,Serious,61,True,3
-890,FAILURE TO YIELD,Other Crime,Minor,62,False,1
-922,CHILD STEALING,Other Crime,Minor,63,False,1
-410,"BURGLARY FROM VEHICLE, ATTEMPTED",Property Crime,Serious,64,False,3
-237,CHILD NEGLECT (SEE 300 W.I.C.),Other Crime,Minor,65,False,1
-810,"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ",Other Crime,Minor,66,False,1
-932,PEEPING TOM,Other Crime,Minor,67,False,1
-755,BOMB SCARE,Other Crime,Minor,68,False,1
-474,"THEFT, COIN MACHINE - PETTY ($950 & UNDER)",Property Crime,Serious,69,False,3
-235,CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT,Violent Crime,Serious,70,True,3
-661,UNAUTHORIZED COMPUTER ACCESS,Other Crime,Minor,71,False,1
-812,CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER),Other Crime,Minor,72,False,1
-666,"BUNCO, ATTEMPT",Other Crime,Minor,73,False,1
-944,CONSPIRACY,Other Crime,Minor,74,False,1
-664,"BUNCO, PETTY THEFT",Property Crime,Minor,75,False,1
-510,VEHICLE - STOLEN,Property Crime,Serious,76,False,3
-660,COUNTERFEIT,Other Crime,Minor,77,False,1
-822,HUMAN TRAFFICKING - COMMERCIAL SEX ACTS,Other Crime,Minor,78,False,1
-250,"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT",Property Crime,Serious,79,False,3
-814,CHILD PORNOGRAPHY,Other Crime,Minor,80,False,1
-845,SEX OFFENDER REGISTRANT OUT OF COMPLIANCE,Other Crime,Minor,81,False,1
-933,PROWLER,Other Crime,Minor,82,False,1
-850,INDECENT EXPOSURE,Other Crime,Minor,83,False,1
-943,CRUELTY TO ANIMALS,Other Crime,Minor,84,False,1
-654,"CREDIT CARDS, FRAUD USE ($950 & UNDER",Other Crime,Minor,85,False,1
-446,PETTY THEFT - AUTO REPAIR,Property Crime,Minor,86,False,1
-951,"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER",Property Crime,Minor,87,False,1
-441,THEFT PLAIN - ATTEMPT,Property Crime,Serious,88,False,3
-351,PURSE SNATCHING,Other Crime,Serious,89,False,3
-345,DISHONEST EMPLOYEE - GRAND THEFT,Property Crime,Serious,90,False,3
-806,PANDERING,Other Crime,Minor,91,False,1
-433,DRIVING WITHOUT OWNER CONSENT (DWOC),Other Crime,Serious,92,False,3
-485,BIKE - ATTEMPTED STOLEN,Property Crime,Serious,93,False,3
-921,HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,Other Crime,Minor,94,False,1
-760,LEWD/LASCIVIOUS ACTS WITH CHILD,Other Crime,Minor,95,False,1
-954,CONTRIBUTING,Other Crime,Minor,96,False,1
-653,"CREDIT CARDS, FRAUD USE ($950.01 & OVER)",Other Crime,Minor,97,False,1
-805,PIMPING,Other Crime,Minor,98,False,1
-870,CHILD ABANDONMENT,Other Crime,Minor,99,False,1
-438,RECKLESS DRIVING,Other Crime,Minor,100,False,1
-439,FALSE POLICE REPORT,Other Crime,Minor,101,False,1
-920,KIDNAPPING - GRAND ATTEMPT,Violent Crime,Minor,102,True,1
-451,PURSE SNATCHING - ATTEMPT,Other Crime,Serious,103,False,3
-949,ILLEGAL DUMPING,Other Crime,Minor,104,False,1
-450,THEFT FROM PERSON - ATTEMPT,Property Crime,Serious,105,False,3
-353,DRUNK ROLL,Other Crime,Serious,106,False,3
-443,SHOPLIFTING - ATTEMPT,Property Crime,Serious,107,False,3
-444,DISHONEST EMPLOYEE - PETTY THEFT,Property Crime,Serious,108,False,3
-865,"DRUGS, TO A MINOR",Other Crime,Minor,109,False,1
-349,GRAND THEFT / AUTO REPAIR,Property Crime,Minor,110,False,1
-651,DOCUMENT WORTHLESS ($200.01 & OVER),Other Crime,Minor,111,False,1
+352,PICKPOCKET,Other Crime,Serious,55,False,3
+763,STALKING,Other Crime,Minor,56,False,1
+886,DISTURBING THE PEACE,Quality of Life,Minor,57,False,1
+762,LEWD CONDUCT,Other Crime,Minor,58,False,1
+648,ARSON,Other Crime,Serious,59,False,3
+890,FAILURE TO YIELD,Other Crime,Minor,60,False,1
+922,CHILD STEALING,Other Crime,Minor,61,False,1
+410,"BURGLARY FROM VEHICLE, ATTEMPTED",Property Crime,Serious,62,False,3
+237,CHILD NEGLECT (SEE 300 W.I.C.),Other Crime,Minor,63,False,1
+940,EXTORTION,Other Crime,Minor,64,False,1
+810,"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ",Other Crime,Minor,65,False,1
+932,PEEPING TOM,Other Crime,Minor,66,False,1
+755,BOMB SCARE,Other Crime,Minor,67,False,1
+474,"THEFT, COIN MACHINE - PETTY ($950 & UNDER)",Property Crime,Serious,68,False,3
+235,CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT,Violent Crime,Serious,69,True,3
+661,UNAUTHORIZED COMPUTER ACCESS,Other Crime,Minor,70,False,1
+122,"RAPE, ATTEMPTED",Violent Crime,Serious,71,True,3
+664,"BUNCO, PETTY THEFT",Property Crime,Minor,72,False,1
+510,VEHICLE - STOLEN,Property Crime,Serious,73,False,3
+660,COUNTERFEIT,Other Crime,Minor,74,False,1
+822,HUMAN TRAFFICKING - COMMERCIAL SEX ACTS,Other Crime,Minor,75,False,1
+812,CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER),Other Crime,Minor,76,False,1
+814,CHILD PORNOGRAPHY,Other Crime,Minor,77,False,1
+845,SEX OFFENDER REGISTRANT OUT OF COMPLIANCE,Other Crime,Minor,78,False,1
+666,"BUNCO, ATTEMPT",Other Crime,Minor,79,False,1
+933,PROWLER,Other Crime,Minor,80,False,1
+850,INDECENT EXPOSURE,Other Crime,Minor,81,False,1
+943,CRUELTY TO ANIMALS,Other Crime,Minor,82,False,1
+654,"CREDIT CARDS, FRAUD USE ($950 & UNDER",Other Crime,Minor,83,False,1
+250,"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT",Property Crime,Serious,84,False,3
+441,THEFT PLAIN - ATTEMPT,Property Crime,Serious,85,False,3
+351,PURSE SNATCHING,Other Crime,Serious,86,False,3
+806,PANDERING,Other Crime,Minor,87,False,1
+433,DRIVING WITHOUT OWNER CONSENT (DWOC),Other Crime,Serious,88,False,3
+485,BIKE - ATTEMPTED STOLEN,Property Crime,Serious,89,False,3
+921,HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,Other Crime,Minor,90,False,1
+954,CONTRIBUTING,Other Crime,Minor,91,False,1
+653,"CREDIT CARDS, FRAUD USE ($950.01 & OVER)",Other Crime,Minor,92,False,1
+951,"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER",Property Crime,Minor,93,False,1
+870,CHILD ABANDONMENT,Other Crime,Minor,94,False,1
+438,RECKLESS DRIVING,Other Crime,Minor,95,False,1
+439,FALSE POLICE REPORT,Other Crime,Minor,96,False,1
+920,KIDNAPPING - GRAND ATTEMPT,Violent Crime,Minor,97,True,1
+451,PURSE SNATCHING - ATTEMPT,Other Crime,Serious,98,False,3
+949,ILLEGAL DUMPING,Other Crime,Minor,99,False,1
+450,THEFT FROM PERSON - ATTEMPT,Property Crime,Serious,100,False,3
+760,LEWD/LASCIVIOUS ACTS WITH CHILD,Other Crime,Minor,101,False,1
+353,DRUNK ROLL,Other Crime,Serious,102,False,3
+443,SHOPLIFTING - ATTEMPT,Property Crime,Serious,103,False,3
+446,PETTY THEFT - AUTO REPAIR,Property Crime,Minor,104,False,1
+444,DISHONEST EMPLOYEE - PETTY THEFT,Property Crime,Serious,105,False,3
+944,CONSPIRACY,Other Crime,Minor,106,False,1
+805,PIMPING,Other Crime,Minor,107,False,1
+651,DOCUMENT WORTHLESS ($200.01 & OVER),Other Crime,Minor,108,False,1

@@ -1,1260 +1,1260 @@
 area_name,year,month,total_crimes,violent_crimes,crimes_with_weapon,cases_closed
-77th Street,2020,1,66,30,39,8
-77th Street,2020,2,39,14,19,0
-77th Street,2020,3,52,24,30,3
-77th Street,2020,4,47,20,27,5
-77th Street,2020,5,49,18,23,4
-77th Street,2020,6,54,27,36,10
-77th Street,2020,7,40,22,22,3
-77th Street,2020,8,56,27,35,6
-77th Street,2020,9,54,26,34,6
-77th Street,2020,10,47,22,33,7
-77th Street,2020,11,37,15,21,4
-77th Street,2020,12,45,22,29,7
-77th Street,2021,1,39,12,20,5
-77th Street,2021,2,42,18,25,7
-77th Street,2021,3,37,12,14,4
-77th Street,2021,4,31,14,19,2
-77th Street,2021,5,26,15,19,3
-77th Street,2021,6,38,14,22,2
-77th Street,2021,7,47,26,29,5
-77th Street,2021,8,40,22,29,2
-77th Street,2021,9,47,19,23,3
-77th Street,2021,10,48,25,32,9
-77th Street,2021,11,52,17,24,4
-77th Street,2021,12,31,21,22,6
-77th Street,2022,1,38,20,25,4
-77th Street,2022,2,40,18,20,2
-77th Street,2022,3,54,18,20,3
-77th Street,2022,4,61,32,41,5
-77th Street,2022,5,57,19,27,9
-77th Street,2022,6,65,32,37,6
-77th Street,2022,7,46,19,27,3
-77th Street,2022,8,39,21,26,3
-77th Street,2022,9,43,22,30,4
-77th Street,2022,10,51,23,27,5
-77th Street,2022,11,52,19,21,3
-77th Street,2022,12,60,14,22,3
-77th Street,2023,1,55,23,28,6
-77th Street,2023,2,53,15,25,5
-77th Street,2023,3,54,23,31,4
-77th Street,2023,4,53,16,25,2
-77th Street,2023,5,34,13,16,5
-77th Street,2023,6,56,27,40,5
-77th Street,2023,7,56,27,35,7
-77th Street,2023,8,32,15,18,2
-77th Street,2023,9,33,17,21,6
-77th Street,2023,10,39,17,23,3
-77th Street,2023,11,39,16,23,2
-77th Street,2023,12,38,13,15,6
-77th Street,2024,1,50,30,35,5
-77th Street,2024,2,42,19,26,4
-77th Street,2024,3,35,19,24,3
-77th Street,2024,4,47,22,31,4
-77th Street,2024,5,11,2,3,0
-77th Street,2024,6,6,0,0,0
-77th Street,2024,7,8,2,2,0
-77th Street,2024,8,8,0,0,0
-77th Street,2024,9,7,0,0,0
-77th Street,2024,10,7,1,1,0
+77th Street,2020,1,42,19,27,6
+77th Street,2020,2,31,11,14,0
+77th Street,2020,3,38,18,22,2
+77th Street,2020,4,38,14,21,5
+77th Street,2020,5,35,14,17,3
+77th Street,2020,6,48,26,32,10
+77th Street,2020,7,33,18,18,3
+77th Street,2020,8,44,21,28,6
+77th Street,2020,9,36,20,25,3
+77th Street,2020,10,42,21,32,7
+77th Street,2020,11,27,11,15,3
+77th Street,2020,12,34,18,23,6
+77th Street,2021,1,26,6,14,3
+77th Street,2021,2,27,12,16,5
+77th Street,2021,3,31,10,12,4
+77th Street,2021,4,28,11,16,2
+77th Street,2021,5,20,11,14,3
+77th Street,2021,6,29,10,17,2
+77th Street,2021,7,42,22,25,5
+77th Street,2021,8,27,14,21,1
+77th Street,2021,9,38,13,16,3
+77th Street,2021,10,39,20,26,6
+77th Street,2021,11,41,15,19,4
+77th Street,2021,12,21,12,13,3
+77th Street,2022,1,32,17,22,4
+77th Street,2022,2,31,12,14,2
+77th Street,2022,3,41,14,15,2
+77th Street,2022,4,48,25,33,5
+77th Street,2022,5,45,14,20,7
+77th Street,2022,6,52,24,28,6
+77th Street,2022,7,35,15,22,2
+77th Street,2022,8,26,17,20,2
+77th Street,2022,9,33,15,23,3
+77th Street,2022,10,38,18,20,5
+77th Street,2022,11,40,15,17,3
+77th Street,2022,12,48,12,17,2
+77th Street,2023,1,38,18,23,5
+77th Street,2023,2,38,11,17,5
+77th Street,2023,3,43,20,27,4
+77th Street,2023,4,44,14,21,1
+77th Street,2023,5,28,11,14,4
+77th Street,2023,6,43,20,31,3
+77th Street,2023,7,43,22,28,6
+77th Street,2023,8,26,12,15,2
+77th Street,2023,9,27,15,16,6
+77th Street,2023,10,30,13,18,3
+77th Street,2023,11,31,11,17,2
+77th Street,2023,12,29,10,12,5
+77th Street,2024,1,38,22,26,3
+77th Street,2024,2,34,16,19,2
+77th Street,2024,3,26,16,21,1
+77th Street,2024,4,31,14,21,1
+77th Street,2024,5,7,2,2,0
+77th Street,2024,6,2,0,0,0
+77th Street,2024,7,7,1,1,0
+77th Street,2024,8,6,0,0,0
+77th Street,2024,9,4,0,0,0
+77th Street,2024,10,3,0,0,0
 77th Street,2024,11,6,1,1,0
 77th Street,2024,12,6,0,0,0
-Central,2020,1,57,22,30,5
-Central,2020,2,50,17,23,2
-Central,2020,3,30,13,14,0
-Central,2020,4,34,13,15,4
-Central,2020,5,48,22,24,6
-Central,2020,6,45,16,18,3
-Central,2020,7,36,17,18,5
-Central,2020,8,43,17,20,5
-Central,2020,9,41,19,24,4
-Central,2020,10,37,20,23,3
-Central,2020,11,32,15,20,4
-Central,2020,12,35,9,11,3
-Central,2021,1,36,11,13,3
-Central,2021,2,29,13,13,3
-Central,2021,3,31,13,18,3
-Central,2021,4,26,9,12,2
-Central,2021,5,47,21,26,3
-Central,2021,6,41,11,18,2
-Central,2021,7,57,16,23,1
-Central,2021,8,36,10,15,4
-Central,2021,9,50,27,29,3
-Central,2021,10,50,22,22,2
-Central,2021,11,51,22,24,7
-Central,2021,12,67,20,26,2
-Central,2022,1,61,19,21,3
-Central,2022,2,46,17,21,2
-Central,2022,3,66,21,28,5
-Central,2022,4,66,21,29,5
-Central,2022,5,63,24,26,5
-Central,2022,6,55,23,26,4
-Central,2022,7,55,14,20,3
-Central,2022,8,61,15,20,2
-Central,2022,9,68,26,30,6
-Central,2022,10,83,28,32,3
-Central,2022,11,59,25,27,3
-Central,2022,12,58,23,27,6
-Central,2023,1,54,11,16,5
-Central,2023,2,58,22,24,3
-Central,2023,3,60,23,27,2
-Central,2023,4,55,25,30,4
-Central,2023,5,56,24,30,8
-Central,2023,6,54,18,25,4
-Central,2023,7,47,13,16,2
-Central,2023,8,52,22,25,2
-Central,2023,9,52,15,28,3
-Central,2023,10,52,19,25,3
-Central,2023,11,59,20,21,0
-Central,2023,12,66,26,30,2
-Central,2024,1,58,22,26,4
-Central,2024,2,42,13,18,1
-Central,2024,3,41,5,7,3
-Central,2024,4,24,4,4,1
-Central,2024,5,15,1,1,0
-Central,2024,6,19,0,0,0
-Central,2024,7,20,0,0,0
-Central,2024,8,22,0,0,0
-Central,2024,9,21,0,0,0
-Central,2024,10,15,2,2,1
-Central,2024,11,20,0,0,0
-Central,2024,12,15,0,0,1
-Devonshire,2020,1,29,8,8,4
-Devonshire,2020,2,31,5,7,7
-Devonshire,2020,3,19,10,11,1
-Devonshire,2020,4,16,2,4,1
-Devonshire,2020,5,27,4,4,1
-Devonshire,2020,6,35,5,10,3
-Devonshire,2020,7,24,6,8,8
-Devonshire,2020,8,16,6,8,1
-Devonshire,2020,9,19,9,10,0
-Devonshire,2020,10,17,4,5,2
-Devonshire,2020,11,25,8,10,3
-Devonshire,2020,12,28,9,10,2
-Devonshire,2021,1,34,8,13,4
-Devonshire,2021,2,16,6,6,2
-Devonshire,2021,3,18,3,3,3
-Devonshire,2021,4,24,7,7,0
-Devonshire,2021,5,29,10,12,2
-Devonshire,2021,6,27,13,18,2
-Devonshire,2021,7,32,12,12,2
-Devonshire,2021,8,32,9,12,2
-Devonshire,2021,9,28,8,9,1
-Devonshire,2021,10,26,6,7,3
-Devonshire,2021,11,29,9,11,3
-Devonshire,2021,12,28,7,8,1
-Devonshire,2022,1,27,6,9,0
-Devonshire,2022,2,25,7,8,2
-Devonshire,2022,3,36,12,13,1
-Devonshire,2022,4,29,12,16,6
-Devonshire,2022,5,35,7,9,1
-Devonshire,2022,6,39,10,14,3
-Devonshire,2022,7,23,3,4,2
-Devonshire,2022,8,27,4,6,0
-Devonshire,2022,9,31,11,13,2
-Devonshire,2022,10,28,5,7,4
-Devonshire,2022,11,28,6,8,5
-Devonshire,2022,12,34,6,12,0
-Devonshire,2023,1,40,14,18,4
-Devonshire,2023,2,26,4,6,2
-Devonshire,2023,3,28,8,11,3
-Devonshire,2023,4,31,5,10,3
-Devonshire,2023,5,33,12,16,4
-Devonshire,2023,6,26,5,6,0
-Devonshire,2023,7,33,8,16,4
-Devonshire,2023,8,18,2,4,1
-Devonshire,2023,9,31,8,9,2
-Devonshire,2023,10,36,12,14,2
-Devonshire,2023,11,22,3,4,1
-Devonshire,2023,12,32,12,15,3
-Devonshire,2024,1,26,5,5,3
-Devonshire,2024,2,25,4,7,1
-Devonshire,2024,3,28,6,7,1
-Devonshire,2024,4,28,8,9,2
-Devonshire,2024,5,12,0,0,0
-Devonshire,2024,6,4,0,0,0
+Central,2020,1,43,15,22,2
+Central,2020,2,32,11,14,2
+Central,2020,3,22,9,10,0
+Central,2020,4,28,9,10,3
+Central,2020,5,37,17,19,5
+Central,2020,6,32,11,13,2
+Central,2020,7,25,12,13,4
+Central,2020,8,33,14,17,4
+Central,2020,9,29,15,19,4
+Central,2020,10,26,13,16,2
+Central,2020,11,28,13,18,4
+Central,2020,12,30,6,7,2
+Central,2021,1,24,10,11,3
+Central,2021,2,19,8,8,2
+Central,2021,3,23,9,14,2
+Central,2021,4,21,8,10,2
+Central,2021,5,40,19,22,2
+Central,2021,6,31,10,14,2
+Central,2021,7,46,13,20,1
+Central,2021,8,31,8,12,4
+Central,2021,9,39,19,20,2
+Central,2021,10,45,19,19,2
+Central,2021,11,38,18,20,5
+Central,2021,12,52,18,24,1
+Central,2022,1,49,15,17,1
+Central,2022,2,39,15,18,2
+Central,2022,3,50,17,21,4
+Central,2022,4,52,16,23,3
+Central,2022,5,49,23,24,4
+Central,2022,6,47,21,23,4
+Central,2022,7,44,13,17,3
+Central,2022,8,47,11,14,2
+Central,2022,9,48,18,22,5
+Central,2022,10,63,23,27,3
+Central,2022,11,46,18,19,1
+Central,2022,12,46,18,22,5
+Central,2023,1,35,6,9,3
+Central,2023,2,50,18,20,2
+Central,2023,3,43,18,20,2
+Central,2023,4,43,21,26,4
+Central,2023,5,44,20,24,6
+Central,2023,6,41,12,16,1
+Central,2023,7,38,11,14,2
+Central,2023,8,41,17,20,1
+Central,2023,9,40,11,22,2
+Central,2023,10,38,15,19,2
+Central,2023,11,42,15,15,0
+Central,2023,12,53,21,23,2
+Central,2024,1,42,16,19,3
+Central,2024,2,34,11,14,1
+Central,2024,3,32,4,4,2
+Central,2024,4,15,3,3,1
+Central,2024,5,8,1,1,0
+Central,2024,6,18,0,0,0
+Central,2024,7,16,0,0,0
+Central,2024,8,17,0,0,0
+Central,2024,9,16,0,0,0
+Central,2024,10,11,1,1,0
+Central,2024,11,19,0,0,0
+Central,2024,12,13,0,0,1
+Devonshire,2020,1,20,5,5,3
+Devonshire,2020,2,25,3,5,5
+Devonshire,2020,3,14,8,8,1
+Devonshire,2020,4,10,0,2,1
+Devonshire,2020,5,14,1,1,0
+Devonshire,2020,6,29,3,7,3
+Devonshire,2020,7,20,5,6,6
+Devonshire,2020,8,13,4,5,0
+Devonshire,2020,9,15,6,7,0
+Devonshire,2020,10,13,4,5,2
+Devonshire,2020,11,22,7,9,3
+Devonshire,2020,12,24,9,10,2
+Devonshire,2021,1,28,7,11,4
+Devonshire,2021,2,11,4,4,2
+Devonshire,2021,3,12,3,3,2
+Devonshire,2021,4,20,6,6,0
+Devonshire,2021,5,20,8,9,2
+Devonshire,2021,6,20,9,13,1
+Devonshire,2021,7,23,9,9,2
+Devonshire,2021,8,25,8,11,2
+Devonshire,2021,9,25,7,8,0
+Devonshire,2021,10,18,3,4,1
+Devonshire,2021,11,26,8,10,3
+Devonshire,2021,12,22,6,6,0
+Devonshire,2022,1,21,4,7,0
+Devonshire,2022,2,21,4,5,1
+Devonshire,2022,3,29,10,10,1
+Devonshire,2022,4,24,11,15,6
+Devonshire,2022,5,25,5,7,1
+Devonshire,2022,6,33,10,14,3
+Devonshire,2022,7,15,2,3,2
+Devonshire,2022,8,21,3,5,0
+Devonshire,2022,9,23,8,9,1
+Devonshire,2022,10,24,5,7,4
+Devonshire,2022,11,17,3,5,4
+Devonshire,2022,12,30,6,11,0
+Devonshire,2023,1,30,11,14,3
+Devonshire,2023,2,22,4,6,2
+Devonshire,2023,3,21,6,8,1
+Devonshire,2023,4,23,3,7,2
+Devonshire,2023,5,25,9,12,4
+Devonshire,2023,6,20,4,5,0
+Devonshire,2023,7,24,6,12,2
+Devonshire,2023,8,15,1,3,1
+Devonshire,2023,9,23,4,5,1
+Devonshire,2023,10,26,10,11,2
+Devonshire,2023,11,17,2,2,0
+Devonshire,2023,12,22,6,7,3
+Devonshire,2024,1,23,5,5,3
+Devonshire,2024,2,18,4,7,1
+Devonshire,2024,3,22,5,6,1
+Devonshire,2024,4,21,7,8,2
+Devonshire,2024,5,7,0,0,0
+Devonshire,2024,6,3,0,0,0
 Devonshire,2024,7,6,1,1,1
 Devonshire,2024,8,4,0,0,0
 Devonshire,2024,9,3,0,0,0
-Devonshire,2024,10,8,0,0,0
-Devonshire,2024,11,10,0,0,0
-Devonshire,2024,12,7,0,0,1
-Foothill,2020,1,18,5,7,2
-Foothill,2020,2,21,8,11,3
-Foothill,2020,3,24,7,10,1
-Foothill,2020,4,20,4,6,2
-Foothill,2020,5,22,8,9,2
-Foothill,2020,6,28,6,8,1
-Foothill,2020,7,22,10,12,5
-Foothill,2020,8,20,8,8,6
-Foothill,2020,9,21,7,9,3
-Foothill,2020,10,18,7,8,2
-Foothill,2020,11,24,8,12,4
-Foothill,2020,12,21,12,14,0
-Foothill,2021,1,24,7,10,2
-Foothill,2021,2,15,2,6,4
-Foothill,2021,3,23,3,5,2
-Foothill,2021,4,24,8,8,5
-Foothill,2021,5,31,9,11,6
-Foothill,2021,6,21,3,6,1
-Foothill,2021,7,25,7,8,2
-Foothill,2021,8,20,6,8,3
-Foothill,2021,9,29,6,9,2
-Foothill,2021,10,24,9,12,4
-Foothill,2021,11,28,10,11,6
-Foothill,2021,12,24,7,8,2
-Foothill,2022,1,31,7,9,5
-Foothill,2022,2,39,11,15,5
-Foothill,2022,3,30,9,10,6
-Foothill,2022,4,24,8,12,4
-Foothill,2022,5,27,11,13,3
-Foothill,2022,6,37,9,15,3
-Foothill,2022,7,25,6,8,2
-Foothill,2022,8,27,12,15,2
-Foothill,2022,9,26,10,12,6
-Foothill,2022,10,20,6,7,1
-Foothill,2022,11,25,5,6,4
-Foothill,2022,12,24,5,8,1
-Foothill,2023,1,14,2,7,2
-Foothill,2023,2,20,5,7,2
-Foothill,2023,3,22,4,8,1
-Foothill,2023,4,24,10,12,0
-Foothill,2023,5,27,12,13,6
-Foothill,2023,6,22,10,11,4
-Foothill,2023,7,25,12,15,4
-Foothill,2023,8,32,9,13,3
-Foothill,2023,9,19,8,8,4
-Foothill,2023,10,16,4,7,2
-Foothill,2023,11,18,6,7,0
-Foothill,2023,12,19,5,7,4
-Foothill,2024,1,18,4,4,4
-Foothill,2024,2,31,11,12,5
-Foothill,2024,3,16,5,7,2
-Foothill,2024,4,19,5,6,1
-Foothill,2024,5,16,6,9,2
-Foothill,2024,6,7,1,1,2
-Foothill,2024,7,4,0,0,0
-Foothill,2024,8,8,0,0,0
-Foothill,2024,9,6,0,0,0
+Devonshire,2024,10,5,0,0,0
+Devonshire,2024,11,7,0,0,0
+Devonshire,2024,12,5,0,0,0
+Foothill,2020,1,17,5,7,2
+Foothill,2020,2,16,5,8,1
+Foothill,2020,3,17,5,8,1
+Foothill,2020,4,15,3,5,1
+Foothill,2020,5,14,5,5,2
+Foothill,2020,6,20,6,7,1
+Foothill,2020,7,19,9,11,5
+Foothill,2020,8,17,6,6,5
+Foothill,2020,9,17,6,7,1
+Foothill,2020,10,11,5,5,1
+Foothill,2020,11,20,8,11,3
+Foothill,2020,12,15,8,9,0
+Foothill,2021,1,21,6,9,2
+Foothill,2021,2,9,1,4,2
+Foothill,2021,3,19,2,5,1
+Foothill,2021,4,17,6,6,3
+Foothill,2021,5,21,7,8,5
+Foothill,2021,6,14,2,5,1
+Foothill,2021,7,21,5,6,2
+Foothill,2021,8,17,6,7,3
+Foothill,2021,9,23,6,9,1
+Foothill,2021,10,19,6,9,3
+Foothill,2021,11,21,8,8,5
+Foothill,2021,12,15,4,5,1
+Foothill,2022,1,27,7,9,5
+Foothill,2022,2,33,10,13,4
+Foothill,2022,3,21,8,9,5
+Foothill,2022,4,19,5,8,2
+Foothill,2022,5,22,9,11,3
+Foothill,2022,6,26,8,12,2
+Foothill,2022,7,19,5,7,1
+Foothill,2022,8,17,9,10,1
+Foothill,2022,9,23,9,11,5
+Foothill,2022,10,17,5,5,1
+Foothill,2022,11,19,4,5,3
+Foothill,2022,12,21,5,8,1
+Foothill,2023,1,12,1,5,2
+Foothill,2023,2,15,5,7,1
+Foothill,2023,3,11,1,3,0
+Foothill,2023,4,21,9,10,0
+Foothill,2023,5,22,11,11,5
+Foothill,2023,6,15,8,8,4
+Foothill,2023,7,17,7,10,3
+Foothill,2023,8,27,7,10,2
+Foothill,2023,9,16,7,7,3
+Foothill,2023,10,7,2,4,1
+Foothill,2023,11,16,5,5,0
+Foothill,2023,12,14,5,7,4
+Foothill,2024,1,17,3,3,4
+Foothill,2024,2,25,7,8,4
+Foothill,2024,3,12,4,5,2
+Foothill,2024,4,15,3,3,0
+Foothill,2024,5,13,5,7,2
+Foothill,2024,6,6,1,1,2
+Foothill,2024,7,3,0,0,0
+Foothill,2024,8,5,0,0,0
+Foothill,2024,9,5,0,0,0
 Foothill,2024,10,3,0,0,0
-Foothill,2024,11,7,0,0,0
-Foothill,2024,12,5,0,0,0
-Harbor,2020,1,20,3,5,4
-Harbor,2020,2,25,8,9,3
-Harbor,2020,3,29,13,14,5
-Harbor,2020,4,19,8,9,5
-Harbor,2020,5,34,13,16,8
-Harbor,2020,6,27,9,11,3
-Harbor,2020,7,21,11,12,3
-Harbor,2020,8,26,13,16,4
+Foothill,2024,11,5,0,0,0
+Foothill,2024,12,4,0,0,0
+Harbor,2020,1,17,2,4,4
+Harbor,2020,2,22,7,7,3
+Harbor,2020,3,21,12,12,4
+Harbor,2020,4,16,7,8,4
+Harbor,2020,5,31,13,14,8
+Harbor,2020,6,24,8,10,3
+Harbor,2020,7,15,8,8,2
+Harbor,2020,8,19,9,11,3
 Harbor,2020,9,25,15,17,4
-Harbor,2020,10,44,20,24,9
-Harbor,2020,11,20,7,9,4
-Harbor,2020,12,28,12,16,3
-Harbor,2021,1,32,14,16,3
-Harbor,2021,2,21,3,6,3
-Harbor,2021,3,16,3,4,2
-Harbor,2021,4,25,14,14,8
-Harbor,2021,5,19,10,10,2
-Harbor,2021,6,19,9,10,3
-Harbor,2021,7,30,10,13,3
-Harbor,2021,8,32,14,18,8
-Harbor,2021,9,15,3,6,3
-Harbor,2021,10,31,13,16,4
-Harbor,2021,11,30,8,11,2
-Harbor,2021,12,23,8,10,2
-Harbor,2022,1,21,6,9,4
-Harbor,2022,2,22,8,11,4
-Harbor,2022,3,27,4,9,6
-Harbor,2022,4,28,8,9,3
-Harbor,2022,5,22,7,11,4
-Harbor,2022,6,24,6,6,3
-Harbor,2022,7,37,19,23,4
-Harbor,2022,8,25,10,12,5
-Harbor,2022,9,29,14,15,2
-Harbor,2022,10,30,8,11,3
-Harbor,2022,11,21,7,10,3
-Harbor,2022,12,28,8,9,2
-Harbor,2023,1,24,9,10,3
-Harbor,2023,2,28,11,13,4
-Harbor,2023,3,20,4,5,2
-Harbor,2023,4,20,7,10,5
-Harbor,2023,5,26,12,13,2
-Harbor,2023,6,29,13,16,5
-Harbor,2023,7,31,15,18,9
-Harbor,2023,8,27,12,14,9
-Harbor,2023,9,32,18,20,5
-Harbor,2023,10,21,7,11,4
-Harbor,2023,11,30,12,16,9
-Harbor,2023,12,26,11,11,5
-Harbor,2024,1,18,6,7,3
-Harbor,2024,2,27,10,12,3
-Harbor,2024,3,30,11,14,1
-Harbor,2024,4,23,9,10,3
-Harbor,2024,5,9,1,2,1
-Harbor,2024,6,7,1,1,0
+Harbor,2020,10,34,17,19,6
+Harbor,2020,11,16,6,8,4
+Harbor,2020,12,21,9,12,3
+Harbor,2021,1,25,9,11,2
+Harbor,2021,2,17,3,5,2
+Harbor,2021,3,12,3,4,2
+Harbor,2021,4,18,11,11,6
+Harbor,2021,5,15,8,8,1
+Harbor,2021,6,14,6,6,2
+Harbor,2021,7,24,6,9,3
+Harbor,2021,8,25,11,14,8
+Harbor,2021,9,9,3,3,2
+Harbor,2021,10,23,10,12,3
+Harbor,2021,11,16,4,6,2
+Harbor,2021,12,20,7,9,2
+Harbor,2022,1,14,3,5,2
+Harbor,2022,2,18,7,10,3
+Harbor,2022,3,21,3,8,6
+Harbor,2022,4,19,7,7,3
+Harbor,2022,5,15,3,7,1
+Harbor,2022,6,18,5,5,3
+Harbor,2022,7,31,15,19,2
+Harbor,2022,8,18,7,8,4
+Harbor,2022,9,22,11,12,1
+Harbor,2022,10,23,6,8,3
+Harbor,2022,11,16,5,8,2
+Harbor,2022,12,24,8,9,2
+Harbor,2023,1,21,8,9,3
+Harbor,2023,2,21,8,9,3
+Harbor,2023,3,15,3,4,1
+Harbor,2023,4,13,4,7,4
+Harbor,2023,5,16,9,10,2
+Harbor,2023,6,24,11,14,4
+Harbor,2023,7,23,10,12,6
+Harbor,2023,8,22,9,11,6
+Harbor,2023,9,26,15,16,3
+Harbor,2023,10,15,6,8,4
+Harbor,2023,11,20,9,11,3
+Harbor,2023,12,21,8,8,3
+Harbor,2024,1,14,6,6,3
+Harbor,2024,2,19,7,8,0
+Harbor,2024,3,22,7,10,0
+Harbor,2024,4,19,7,8,2
+Harbor,2024,5,6,1,2,1
+Harbor,2024,6,4,0,0,0
 Harbor,2024,7,5,0,0,0
-Harbor,2024,8,10,3,3,0
-Harbor,2024,9,7,1,1,0
-Harbor,2024,10,7,1,2,0
-Harbor,2024,11,6,1,1,1
-Harbor,2024,12,5,0,0,0
-Hollenbeck,2020,1,26,3,6,1
-Hollenbeck,2020,2,18,9,10,4
-Hollenbeck,2020,3,16,5,8,2
-Hollenbeck,2020,4,23,6,9,3
-Hollenbeck,2020,5,24,12,12,3
-Hollenbeck,2020,6,22,11,14,2
-Hollenbeck,2020,7,18,6,8,4
-Hollenbeck,2020,8,19,9,11,3
-Hollenbeck,2020,9,27,10,12,4
-Hollenbeck,2020,10,23,8,10,3
-Hollenbeck,2020,11,22,8,11,2
-Hollenbeck,2020,12,33,12,13,3
-Hollenbeck,2021,1,28,13,16,6
-Hollenbeck,2021,2,25,7,11,2
-Hollenbeck,2021,3,25,8,10,1
-Hollenbeck,2021,4,25,8,9,2
-Hollenbeck,2021,5,20,10,11,1
-Hollenbeck,2021,6,27,11,13,5
-Hollenbeck,2021,7,32,19,20,3
-Hollenbeck,2021,8,26,8,9,1
-Hollenbeck,2021,9,26,11,11,2
-Hollenbeck,2021,10,26,8,11,3
-Hollenbeck,2021,11,29,10,10,2
-Hollenbeck,2021,12,17,6,8,2
-Hollenbeck,2022,1,31,9,13,4
-Hollenbeck,2022,2,22,8,11,5
-Hollenbeck,2022,3,29,13,20,2
-Hollenbeck,2022,4,20,8,11,2
-Hollenbeck,2022,5,26,11,12,6
-Hollenbeck,2022,6,25,8,10,3
-Hollenbeck,2022,7,24,8,13,6
-Hollenbeck,2022,8,27,4,7,2
-Hollenbeck,2022,9,19,7,9,1
-Hollenbeck,2022,10,28,9,12,1
-Hollenbeck,2022,11,24,10,11,1
-Hollenbeck,2022,12,26,7,9,1
-Hollenbeck,2023,1,30,13,16,7
-Hollenbeck,2023,2,28,9,11,3
-Hollenbeck,2023,3,27,9,11,2
-Hollenbeck,2023,4,19,3,3,0
-Hollenbeck,2023,5,21,6,7,0
-Hollenbeck,2023,6,24,14,16,0
-Hollenbeck,2023,7,24,9,12,0
-Hollenbeck,2023,8,21,10,11,3
-Hollenbeck,2023,9,26,13,14,3
-Hollenbeck,2023,10,18,8,10,0
-Hollenbeck,2023,11,22,10,11,2
-Hollenbeck,2023,12,27,11,13,3
-Hollenbeck,2024,1,22,9,11,0
-Hollenbeck,2024,2,29,11,17,2
-Hollenbeck,2024,3,13,4,4,0
-Hollenbeck,2024,4,10,2,2,1
+Harbor,2024,8,8,2,2,0
+Harbor,2024,9,4,1,1,0
+Harbor,2024,10,5,1,1,0
+Harbor,2024,11,5,0,0,1
+Harbor,2024,12,4,0,0,0
+Hollenbeck,2020,1,19,2,4,1
+Hollenbeck,2020,2,15,9,10,4
+Hollenbeck,2020,3,7,1,3,1
+Hollenbeck,2020,4,19,5,7,2
+Hollenbeck,2020,5,20,11,11,3
+Hollenbeck,2020,6,19,10,12,2
+Hollenbeck,2020,7,11,6,7,3
+Hollenbeck,2020,8,16,8,10,2
+Hollenbeck,2020,9,19,7,9,4
+Hollenbeck,2020,10,21,7,8,2
+Hollenbeck,2020,11,17,7,9,1
+Hollenbeck,2020,12,22,7,8,1
+Hollenbeck,2021,1,23,11,13,5
+Hollenbeck,2021,2,22,7,11,2
+Hollenbeck,2021,3,20,6,8,1
+Hollenbeck,2021,4,19,5,6,2
+Hollenbeck,2021,5,15,7,8,1
+Hollenbeck,2021,6,20,8,10,2
+Hollenbeck,2021,7,23,14,15,3
+Hollenbeck,2021,8,17,7,8,1
+Hollenbeck,2021,9,20,9,9,2
+Hollenbeck,2021,10,23,8,11,3
+Hollenbeck,2021,11,23,9,9,2
+Hollenbeck,2021,12,15,6,7,1
+Hollenbeck,2022,1,23,6,10,3
+Hollenbeck,2022,2,20,7,10,5
+Hollenbeck,2022,3,18,7,10,0
+Hollenbeck,2022,4,15,4,7,2
+Hollenbeck,2022,5,20,10,10,6
+Hollenbeck,2022,6,20,7,8,2
+Hollenbeck,2022,7,19,5,9,3
+Hollenbeck,2022,8,21,3,6,2
+Hollenbeck,2022,9,17,7,9,1
+Hollenbeck,2022,10,26,9,11,1
+Hollenbeck,2022,11,17,9,9,0
+Hollenbeck,2022,12,20,4,6,1
+Hollenbeck,2023,1,18,6,9,6
+Hollenbeck,2023,2,23,6,8,1
+Hollenbeck,2023,3,23,8,10,2
+Hollenbeck,2023,4,13,2,2,0
+Hollenbeck,2023,5,15,3,4,0
+Hollenbeck,2023,6,19,10,12,0
+Hollenbeck,2023,7,16,5,7,0
+Hollenbeck,2023,8,18,8,9,2
+Hollenbeck,2023,9,21,11,12,3
+Hollenbeck,2023,10,15,7,9,0
+Hollenbeck,2023,11,14,6,7,1
+Hollenbeck,2023,12,21,8,9,1
+Hollenbeck,2024,1,12,4,6,0
+Hollenbeck,2024,2,26,10,15,2
+Hollenbeck,2024,3,9,3,3,0
+Hollenbeck,2024,4,7,2,2,1
 Hollenbeck,2024,5,6,0,0,0
-Hollenbeck,2024,6,8,1,1,1
-Hollenbeck,2024,7,5,1,1,0
-Hollenbeck,2024,8,12,0,0,0
-Hollenbeck,2024,9,5,0,0,0
-Hollenbeck,2024,10,6,0,0,0
-Hollenbeck,2024,12,5,0,0,0
-Hollywood,2020,1,41,16,18,2
-Hollywood,2020,2,35,15,17,1
-Hollywood,2020,3,34,12,14,3
-Hollywood,2020,4,29,13,13,2
-Hollywood,2020,5,39,10,14,2
-Hollywood,2020,6,31,9,11,2
-Hollywood,2020,7,38,9,15,4
-Hollywood,2020,8,37,13,15,4
-Hollywood,2020,9,31,13,19,6
-Hollywood,2020,10,31,10,15,3
-Hollywood,2020,11,28,9,17,7
-Hollywood,2020,12,30,8,17,2
-Hollywood,2021,1,31,7,15,1
-Hollywood,2021,2,29,7,12,3
-Hollywood,2021,3,37,9,14,2
-Hollywood,2021,4,36,11,16,1
-Hollywood,2021,5,35,11,15,3
-Hollywood,2021,6,24,7,12,0
-Hollywood,2021,7,48,11,17,2
-Hollywood,2021,8,43,15,19,3
-Hollywood,2021,9,32,16,19,3
-Hollywood,2021,10,52,17,23,6
-Hollywood,2021,11,39,9,13,4
-Hollywood,2021,12,33,8,12,3
-Hollywood,2022,1,45,18,21,3
-Hollywood,2022,2,35,11,13,1
-Hollywood,2022,3,40,12,19,4
-Hollywood,2022,4,39,14,17,2
-Hollywood,2022,5,51,20,25,10
-Hollywood,2022,6,37,12,14,4
-Hollywood,2022,7,52,16,23,3
-Hollywood,2022,8,58,18,22,7
-Hollywood,2022,9,42,13,17,2
-Hollywood,2022,10,45,19,26,2
-Hollywood,2022,11,42,17,21,3
-Hollywood,2022,12,33,14,18,2
-Hollywood,2023,1,40,12,17,4
-Hollywood,2023,2,34,11,15,2
-Hollywood,2023,3,30,13,18,2
-Hollywood,2023,4,28,8,10,1
-Hollywood,2023,5,31,15,16,1
-Hollywood,2023,6,36,12,17,1
-Hollywood,2023,7,34,13,20,1
-Hollywood,2023,8,37,10,17,1
-Hollywood,2023,9,42,22,28,4
-Hollywood,2023,10,46,15,21,2
-Hollywood,2023,11,34,14,23,5
-Hollywood,2023,12,41,14,20,3
-Hollywood,2024,1,27,3,6,2
-Hollywood,2024,2,34,15,19,4
-Hollywood,2024,3,18,6,8,2
-Hollywood,2024,4,18,2,4,1
-Hollywood,2024,5,16,0,1,1
-Hollywood,2024,6,10,1,1,0
-Hollywood,2024,7,15,0,1,0
-Hollywood,2024,8,9,1,1,0
-Hollywood,2024,9,19,0,1,0
-Hollywood,2024,10,10,0,1,0
-Hollywood,2024,11,16,0,0,0
-Hollywood,2024,12,9,0,0,0
-Mission,2020,1,35,15,17,7
-Mission,2020,2,33,12,16,3
-Mission,2020,3,29,8,9,3
-Mission,2020,4,22,9,10,3
-Mission,2020,5,24,10,11,4
-Mission,2020,6,22,8,8,5
-Mission,2020,7,30,11,13,4
-Mission,2020,8,18,6,7,3
-Mission,2020,9,31,13,16,7
-Mission,2020,10,25,10,10,6
-Mission,2020,11,24,3,4,4
-Mission,2020,12,13,6,7,2
-Mission,2021,1,27,4,7,4
-Mission,2021,2,22,10,12,7
-Mission,2021,3,32,2,4,1
-Mission,2021,4,24,13,13,5
-Mission,2021,5,21,6,7,5
-Mission,2021,6,36,15,18,4
-Mission,2021,7,28,11,12,5
-Mission,2021,8,30,9,11,2
-Mission,2021,9,31,16,17,5
-Mission,2021,10,23,7,8,2
-Mission,2021,11,29,16,17,4
-Mission,2021,12,26,8,8,3
-Mission,2022,1,34,14,17,7
-Mission,2022,2,29,8,12,3
-Mission,2022,3,24,8,8,2
-Mission,2022,4,37,13,15,4
-Mission,2022,5,40,15,16,6
-Mission,2022,6,23,10,11,5
-Mission,2022,7,34,11,14,6
-Mission,2022,8,37,18,21,8
-Mission,2022,9,34,15,16,5
-Mission,2022,10,20,3,4,3
-Mission,2022,11,21,7,9,2
-Mission,2022,12,43,14,16,6
-Mission,2023,1,37,13,14,5
-Mission,2023,2,31,7,7,3
-Mission,2023,3,19,4,5,2
-Mission,2023,4,31,14,16,8
-Mission,2023,5,30,14,18,7
-Mission,2023,6,27,14,16,3
-Mission,2023,7,36,10,12,4
-Mission,2023,8,22,7,9,2
-Mission,2023,9,27,7,11,2
-Mission,2023,10,28,11,12,3
-Mission,2023,11,30,10,12,2
-Mission,2023,12,21,5,8,4
-Mission,2024,1,34,16,16,5
-Mission,2024,2,30,7,7,1
-Mission,2024,3,32,4,8,5
-Mission,2024,4,25,9,9,2
-Mission,2024,5,16,3,5,4
-Mission,2024,6,3,0,0,0
-Mission,2024,7,3,0,0,1
-Mission,2024,8,14,0,1,2
-Mission,2024,9,12,0,0,0
-Mission,2024,10,10,0,0,0
-Mission,2024,11,8,1,1,0
-Mission,2024,12,7,0,0,0
-N Hollywood,2020,1,40,9,11,5
-N Hollywood,2020,2,44,9,10,8
-N Hollywood,2020,3,33,6,7,7
-N Hollywood,2020,4,27,10,13,3
-N Hollywood,2020,5,32,7,7,3
-N Hollywood,2020,6,44,14,17,3
-N Hollywood,2020,7,38,15,18,3
-N Hollywood,2020,8,46,13,18,8
-N Hollywood,2020,9,36,8,11,5
-N Hollywood,2020,10,40,11,11,4
-N Hollywood,2020,11,36,8,10,4
-N Hollywood,2020,12,37,5,5,4
-N Hollywood,2021,1,30,8,10,5
-N Hollywood,2021,2,37,9,9,6
-N Hollywood,2021,3,41,9,12,6
-N Hollywood,2021,4,43,8,10,6
-N Hollywood,2021,5,35,11,13,4
-N Hollywood,2021,6,35,7,10,4
-N Hollywood,2021,7,34,18,20,4
-N Hollywood,2021,8,47,12,15,7
-N Hollywood,2021,9,33,12,12,4
-N Hollywood,2021,10,47,7,9,4
-N Hollywood,2021,11,52,14,17,4
-N Hollywood,2021,12,31,11,12,4
-N Hollywood,2022,1,36,10,11,3
-N Hollywood,2022,2,28,8,12,2
-N Hollywood,2022,3,37,11,13,9
-N Hollywood,2022,4,36,7,7,6
-N Hollywood,2022,5,51,16,20,7
-N Hollywood,2022,6,45,8,11,8
-N Hollywood,2022,7,46,14,14,5
-N Hollywood,2022,8,52,12,15,9
-N Hollywood,2022,9,37,11,14,3
-N Hollywood,2022,10,35,12,14,3
-N Hollywood,2022,11,41,6,9,7
-N Hollywood,2022,12,39,9,14,1
-N Hollywood,2023,1,31,4,7,3
-N Hollywood,2023,2,44,4,5,3
-N Hollywood,2023,3,45,13,15,4
-N Hollywood,2023,4,37,11,11,6
-N Hollywood,2023,5,40,6,8,7
-N Hollywood,2023,6,33,4,7,3
-N Hollywood,2023,7,36,12,15,5
-N Hollywood,2023,8,37,9,11,5
-N Hollywood,2023,9,43,12,16,9
-N Hollywood,2023,10,46,10,15,5
-N Hollywood,2023,11,34,13,18,0
-N Hollywood,2023,12,40,12,14,1
-N Hollywood,2024,1,31,7,14,9
-N Hollywood,2024,2,38,12,14,3
-N Hollywood,2024,3,35,6,12,4
-N Hollywood,2024,4,31,7,9,7
-N Hollywood,2024,5,19,1,2,0
-N Hollywood,2024,6,13,0,1,1
+Hollenbeck,2024,6,4,1,1,1
+Hollenbeck,2024,7,2,0,0,0
+Hollenbeck,2024,8,10,0,0,0
+Hollenbeck,2024,9,2,0,0,0
+Hollenbeck,2024,10,3,0,0,0
+Hollenbeck,2024,12,4,0,0,0
+Hollywood,2020,1,36,14,16,1
+Hollywood,2020,2,29,14,16,1
+Hollywood,2020,3,28,10,11,1
+Hollywood,2020,4,19,11,11,2
+Hollywood,2020,5,30,7,11,1
+Hollywood,2020,6,26,9,10,1
+Hollywood,2020,7,29,8,12,2
+Hollywood,2020,8,26,9,10,2
+Hollywood,2020,9,24,11,16,5
+Hollywood,2020,10,22,6,11,2
+Hollywood,2020,11,18,7,10,4
+Hollywood,2020,12,20,6,11,1
+Hollywood,2021,1,22,4,10,1
+Hollywood,2021,2,18,6,9,1
+Hollywood,2021,3,31,8,12,2
+Hollywood,2021,4,29,6,11,1
+Hollywood,2021,5,27,8,11,1
+Hollywood,2021,6,14,4,7,0
+Hollywood,2021,7,33,7,13,1
+Hollywood,2021,8,36,14,17,3
+Hollywood,2021,9,23,12,12,2
+Hollywood,2021,10,36,11,16,5
+Hollywood,2021,11,28,5,7,3
+Hollywood,2021,12,24,6,8,3
+Hollywood,2022,1,33,14,15,2
+Hollywood,2022,2,24,7,9,1
+Hollywood,2022,3,31,8,14,3
+Hollywood,2022,4,32,10,13,2
+Hollywood,2022,5,38,18,21,7
+Hollywood,2022,6,23,6,7,3
+Hollywood,2022,7,40,12,18,1
+Hollywood,2022,8,43,13,15,7
+Hollywood,2022,9,34,11,15,2
+Hollywood,2022,10,35,16,22,2
+Hollywood,2022,11,30,12,15,2
+Hollywood,2022,12,26,10,14,2
+Hollywood,2023,1,32,10,14,3
+Hollywood,2023,2,23,11,15,2
+Hollywood,2023,3,19,7,11,2
+Hollywood,2023,4,25,8,10,1
+Hollywood,2023,5,26,14,15,1
+Hollywood,2023,6,22,7,11,1
+Hollywood,2023,7,28,10,17,1
+Hollywood,2023,8,33,10,17,1
+Hollywood,2023,9,34,19,23,2
+Hollywood,2023,10,33,12,15,1
+Hollywood,2023,11,27,12,17,5
+Hollywood,2023,12,29,8,13,2
+Hollywood,2024,1,21,2,4,1
+Hollywood,2024,2,27,12,16,3
+Hollywood,2024,3,13,5,6,2
+Hollywood,2024,4,15,1,3,0
+Hollywood,2024,5,10,0,1,0
+Hollywood,2024,6,7,1,1,0
+Hollywood,2024,7,13,0,1,0
+Hollywood,2024,8,6,1,1,0
+Hollywood,2024,9,11,0,1,0
+Hollywood,2024,10,9,0,1,0
+Hollywood,2024,11,13,0,0,0
+Hollywood,2024,12,6,0,0,0
+Mission,2020,1,21,8,10,3
+Mission,2020,2,27,11,14,3
+Mission,2020,3,22,7,8,1
+Mission,2020,4,13,5,6,2
+Mission,2020,5,18,6,7,3
+Mission,2020,6,17,7,7,5
+Mission,2020,7,24,11,12,3
+Mission,2020,8,14,3,4,2
+Mission,2020,9,24,9,11,4
+Mission,2020,10,21,8,8,4
+Mission,2020,11,20,3,4,4
+Mission,2020,12,11,4,5,2
+Mission,2021,1,24,4,6,4
+Mission,2021,2,19,10,11,7
+Mission,2021,3,24,2,3,1
+Mission,2021,4,18,8,8,3
+Mission,2021,5,16,4,5,4
+Mission,2021,6,30,12,15,3
+Mission,2021,7,19,6,7,3
+Mission,2021,8,22,7,9,1
+Mission,2021,9,27,12,13,4
+Mission,2021,10,16,5,6,2
+Mission,2021,11,22,11,12,3
+Mission,2021,12,20,7,7,2
+Mission,2022,1,24,9,11,4
+Mission,2022,2,23,7,8,3
+Mission,2022,3,17,5,5,2
+Mission,2022,4,25,8,10,2
+Mission,2022,5,32,12,13,3
+Mission,2022,6,20,8,9,4
+Mission,2022,7,28,9,11,4
+Mission,2022,8,33,16,19,6
+Mission,2022,9,30,14,15,5
+Mission,2022,10,16,3,4,3
+Mission,2022,11,18,5,7,2
+Mission,2022,12,34,10,12,3
+Mission,2023,1,29,11,12,4
+Mission,2023,2,25,6,6,2
+Mission,2023,3,15,3,4,2
+Mission,2023,4,20,9,10,7
+Mission,2023,5,25,11,14,6
+Mission,2023,6,21,11,13,2
+Mission,2023,7,27,7,8,2
+Mission,2023,8,19,7,9,1
+Mission,2023,9,22,7,10,1
+Mission,2023,10,18,9,10,2
+Mission,2023,11,19,7,8,1
+Mission,2023,12,17,5,5,3
+Mission,2024,1,29,13,13,4
+Mission,2024,2,26,6,6,1
+Mission,2024,3,23,2,5,5
+Mission,2024,4,19,6,6,2
+Mission,2024,5,14,2,4,3
+Mission,2024,6,1,0,0,0
+Mission,2024,7,2,0,0,1
+Mission,2024,8,9,0,1,1
+Mission,2024,9,11,0,0,0
+Mission,2024,10,8,0,0,0
+Mission,2024,11,7,1,1,0
+Mission,2024,12,6,0,0,0
+N Hollywood,2020,1,31,7,9,4
+N Hollywood,2020,2,30,6,7,6
+N Hollywood,2020,3,22,2,3,4
+N Hollywood,2020,4,23,10,12,3
+N Hollywood,2020,5,27,5,5,2
+N Hollywood,2020,6,30,9,11,2
+N Hollywood,2020,7,29,11,14,3
+N Hollywood,2020,8,34,10,14,5
+N Hollywood,2020,9,28,6,9,4
+N Hollywood,2020,10,31,10,10,3
+N Hollywood,2020,11,32,7,9,4
+N Hollywood,2020,12,28,4,4,3
+N Hollywood,2021,1,24,5,7,4
+N Hollywood,2021,2,30,9,9,6
+N Hollywood,2021,3,32,6,9,6
+N Hollywood,2021,4,31,4,4,5
+N Hollywood,2021,5,29,10,12,4
+N Hollywood,2021,6,27,5,7,2
+N Hollywood,2021,7,25,12,13,3
+N Hollywood,2021,8,31,9,11,5
+N Hollywood,2021,9,27,11,11,3
+N Hollywood,2021,10,32,4,5,3
+N Hollywood,2021,11,42,13,16,4
+N Hollywood,2021,12,23,7,7,4
+N Hollywood,2022,1,32,9,10,3
+N Hollywood,2022,2,19,5,8,1
+N Hollywood,2022,3,30,10,12,8
+N Hollywood,2022,4,28,5,5,5
+N Hollywood,2022,5,44,14,18,5
+N Hollywood,2022,6,32,5,8,5
+N Hollywood,2022,7,33,8,8,3
+N Hollywood,2022,8,37,10,11,7
+N Hollywood,2022,9,30,9,11,1
+N Hollywood,2022,10,27,9,10,2
+N Hollywood,2022,11,31,5,8,5
+N Hollywood,2022,12,26,5,10,1
+N Hollywood,2023,1,27,4,5,3
+N Hollywood,2023,2,34,3,4,2
+N Hollywood,2023,3,38,11,13,3
+N Hollywood,2023,4,32,8,8,3
+N Hollywood,2023,5,30,4,6,6
+N Hollywood,2023,6,26,4,6,3
+N Hollywood,2023,7,29,10,13,4
+N Hollywood,2023,8,27,6,7,2
+N Hollywood,2023,9,34,10,14,7
+N Hollywood,2023,10,35,10,14,4
+N Hollywood,2023,11,22,10,12,0
+N Hollywood,2023,12,35,10,12,1
+N Hollywood,2024,1,25,6,12,8
+N Hollywood,2024,2,29,11,13,3
+N Hollywood,2024,3,25,3,7,1
+N Hollywood,2024,4,23,5,7,6
+N Hollywood,2024,5,15,1,2,0
+N Hollywood,2024,6,12,0,0,1
 N Hollywood,2024,7,12,0,0,0
-N Hollywood,2024,8,10,0,0,1
-N Hollywood,2024,9,14,1,2,2
-N Hollywood,2024,10,7,0,0,0
-N Hollywood,2024,11,9,1,1,1
-N Hollywood,2024,12,4,0,0,1
-Newton,2020,1,37,12,17,3
-Newton,2020,2,30,13,16,4
-Newton,2020,3,42,17,23,3
-Newton,2020,4,33,13,16,6
-Newton,2020,5,35,16,19,4
-Newton,2020,6,40,14,18,3
-Newton,2020,7,29,13,14,4
-Newton,2020,8,28,13,15,6
-Newton,2020,9,31,11,14,2
-Newton,2020,10,31,15,18,3
-Newton,2020,11,23,11,13,3
-Newton,2020,12,27,10,16,5
-Newton,2021,1,28,10,13,2
-Newton,2021,2,26,10,13,2
-Newton,2021,3,26,14,14,2
-Newton,2021,4,27,9,12,4
-Newton,2021,5,28,11,14,3
-Newton,2021,6,33,16,23,2
-Newton,2021,7,38,14,20,4
-Newton,2021,8,39,17,20,5
-Newton,2021,9,40,16,21,5
-Newton,2021,10,28,13,15,3
-Newton,2021,11,28,11,12,0
-Newton,2021,12,33,14,16,1
-Newton,2022,1,22,8,9,2
-Newton,2022,2,57,20,24,8
-Newton,2022,3,32,15,16,3
-Newton,2022,4,37,8,12,2
-Newton,2022,5,47,18,20,6
-Newton,2022,6,47,16,21,1
-Newton,2022,7,31,14,16,1
-Newton,2022,8,37,16,18,0
-Newton,2022,9,41,18,24,2
-Newton,2022,10,37,16,16,2
-Newton,2022,11,41,18,21,3
-Newton,2022,12,33,8,15,1
-Newton,2023,1,36,19,24,2
-Newton,2023,2,34,13,17,2
-Newton,2023,3,28,11,17,2
-Newton,2023,4,33,11,19,4
-Newton,2023,5,41,22,25,4
-Newton,2023,6,39,21,26,4
-Newton,2023,7,41,15,21,4
-Newton,2023,8,41,16,23,8
-Newton,2023,9,36,11,16,1
-Newton,2023,10,40,18,26,2
-Newton,2023,11,32,10,14,4
-Newton,2023,12,39,14,19,4
-Newton,2024,1,34,13,18,4
-Newton,2024,2,35,15,22,6
-Newton,2024,3,16,3,6,0
-Newton,2024,4,19,5,9,1
-Newton,2024,5,12,0,0,0
-Newton,2024,6,10,3,3,1
-Newton,2024,7,7,1,2,1
-Newton,2024,8,9,1,1,0
-Newton,2024,9,12,1,1,0
-Newton,2024,10,10,0,1,1
-Newton,2024,11,10,3,3,0
+N Hollywood,2024,8,9,0,0,1
+N Hollywood,2024,9,12,1,2,2
+N Hollywood,2024,10,3,0,0,0
+N Hollywood,2024,11,8,1,1,1
+N Hollywood,2024,12,2,0,0,0
+Newton,2020,1,28,8,11,1
+Newton,2020,2,21,7,8,2
+Newton,2020,3,30,11,14,2
+Newton,2020,4,25,12,15,6
+Newton,2020,5,28,13,15,4
+Newton,2020,6,32,11,14,2
+Newton,2020,7,24,11,11,4
+Newton,2020,8,23,11,13,4
+Newton,2020,9,23,6,9,1
+Newton,2020,10,29,14,16,3
+Newton,2020,11,12,2,3,1
+Newton,2020,12,15,6,8,3
+Newton,2021,1,23,6,9,2
+Newton,2021,2,19,7,10,1
+Newton,2021,3,20,11,11,2
+Newton,2021,4,21,6,9,1
+Newton,2021,5,20,6,9,1
+Newton,2021,6,24,13,16,2
+Newton,2021,7,32,13,19,3
+Newton,2021,8,30,13,16,4
+Newton,2021,9,28,11,14,5
+Newton,2021,10,25,12,14,2
+Newton,2021,11,20,8,8,0
+Newton,2021,12,27,11,12,1
+Newton,2022,1,18,6,7,2
+Newton,2022,2,46,17,20,6
+Newton,2022,3,25,11,12,2
+Newton,2022,4,27,6,8,1
+Newton,2022,5,35,13,14,3
+Newton,2022,6,37,13,17,1
+Newton,2022,7,21,9,11,1
+Newton,2022,8,31,13,15,0
+Newton,2022,9,29,13,16,1
+Newton,2022,10,31,13,13,1
+Newton,2022,11,28,13,16,2
+Newton,2022,12,23,4,10,1
+Newton,2023,1,28,14,18,1
+Newton,2023,2,23,10,12,2
+Newton,2023,3,14,6,9,1
+Newton,2023,4,29,10,17,4
+Newton,2023,5,32,16,19,3
+Newton,2023,6,27,14,18,2
+Newton,2023,7,33,12,17,4
+Newton,2023,8,33,13,19,6
+Newton,2023,9,28,8,12,1
+Newton,2023,10,32,13,20,1
+Newton,2023,11,25,8,12,3
+Newton,2023,12,33,12,17,4
+Newton,2024,1,23,8,11,3
+Newton,2024,2,26,14,20,5
+Newton,2024,3,14,2,5,0
+Newton,2024,4,12,4,5,1
+Newton,2024,5,10,0,0,0
+Newton,2024,6,8,2,2,0
+Newton,2024,7,6,1,2,1
+Newton,2024,8,6,1,1,0
+Newton,2024,9,9,0,0,0
+Newton,2024,10,8,0,1,0
+Newton,2024,11,8,2,2,0
 Newton,2024,12,5,0,0,0
-Northeast,2020,1,29,8,14,3
-Northeast,2020,2,21,4,10,2
-Northeast,2020,3,24,8,13,3
-Northeast,2020,4,27,9,10,5
-Northeast,2020,5,30,12,12,1
-Northeast,2020,6,35,5,9,1
-Northeast,2020,7,27,9,12,5
-Northeast,2020,8,19,1,1,1
-Northeast,2020,9,30,11,15,4
-Northeast,2020,10,25,7,11,2
-Northeast,2020,11,23,6,6,3
-Northeast,2020,12,29,8,9,2
-Northeast,2021,1,31,6,11,2
-Northeast,2021,2,26,1,2,1
-Northeast,2021,3,31,4,7,2
+Northeast,2020,1,23,4,10,2
+Northeast,2020,2,13,2,5,0
+Northeast,2020,3,18,7,11,3
+Northeast,2020,4,25,9,10,4
+Northeast,2020,5,22,9,9,1
+Northeast,2020,6,29,4,8,1
+Northeast,2020,7,18,6,9,2
+Northeast,2020,8,17,1,1,1
+Northeast,2020,9,24,10,14,4
+Northeast,2020,10,19,6,9,2
+Northeast,2020,11,16,3,3,1
+Northeast,2020,12,27,7,8,2
+Northeast,2021,1,26,5,8,1
+Northeast,2021,2,18,1,2,0
+Northeast,2021,3,25,3,4,1
 Northeast,2021,4,10,1,1,0
-Northeast,2021,5,33,13,15,5
-Northeast,2021,6,17,6,7,3
-Northeast,2021,7,26,6,10,1
-Northeast,2021,8,28,9,11,4
-Northeast,2021,9,25,10,11,4
-Northeast,2021,10,26,6,8,2
-Northeast,2021,11,26,9,10,2
-Northeast,2021,12,34,6,8,3
-Northeast,2022,1,31,5,8,5
-Northeast,2022,2,21,4,6,2
-Northeast,2022,3,21,7,7,3
-Northeast,2022,4,38,7,10,2
-Northeast,2022,5,35,10,10,4
-Northeast,2022,6,34,9,11,3
-Northeast,2022,7,36,11,11,5
-Northeast,2022,8,27,5,6,1
-Northeast,2022,9,33,10,12,3
-Northeast,2022,10,37,14,16,3
-Northeast,2022,11,39,9,10,3
-Northeast,2022,12,31,6,7,1
-Northeast,2023,1,34,6,8,5
-Northeast,2023,2,38,11,13,4
-Northeast,2023,3,37,13,14,2
-Northeast,2023,4,41,8,10,6
-Northeast,2023,5,21,6,7,1
-Northeast,2023,6,28,5,8,1
-Northeast,2023,7,25,6,6,0
-Northeast,2023,8,29,7,8,3
-Northeast,2023,9,31,10,12,2
-Northeast,2023,10,40,10,14,4
-Northeast,2023,11,24,3,8,0
-Northeast,2023,12,21,3,5,1
-Northeast,2024,1,18,9,11,2
-Northeast,2024,2,14,5,6,0
-Northeast,2024,3,15,2,3,0
-Northeast,2024,4,7,0,0,1
-Northeast,2024,5,12,1,1,1
-Northeast,2024,6,12,0,0,0
-Northeast,2024,7,10,0,0,0
-Northeast,2024,8,11,0,0,0
-Northeast,2024,9,9,0,0,0
-Northeast,2024,10,8,0,0,0
-Northeast,2024,11,10,1,1,0
-Northeast,2024,12,9,0,0,0
-Olympic,2020,1,32,10,14,3
-Olympic,2020,2,32,7,11,4
-Olympic,2020,3,19,5,10,2
-Olympic,2020,4,31,7,13,7
-Olympic,2020,5,31,11,13,4
-Olympic,2020,6,27,8,13,1
-Olympic,2020,7,37,12,18,5
-Olympic,2020,8,43,19,24,7
-Olympic,2020,9,40,21,25,4
-Olympic,2020,10,30,15,19,1
-Olympic,2020,11,31,11,14,3
-Olympic,2020,12,25,11,11,2
-Olympic,2021,1,34,10,12,1
-Olympic,2021,2,23,7,9,4
-Olympic,2021,3,28,9,14,2
-Olympic,2021,4,28,5,6,2
-Olympic,2021,5,33,13,16,3
-Olympic,2021,6,36,17,18,3
-Olympic,2021,7,35,11,14,2
-Olympic,2021,8,39,18,20,4
-Olympic,2021,9,43,26,30,4
-Olympic,2021,10,42,21,23,5
-Olympic,2021,11,52,21,23,5
-Olympic,2021,12,39,13,15,0
-Olympic,2022,1,43,15,22,2
-Olympic,2022,2,38,16,21,7
-Olympic,2022,3,35,9,15,2
-Olympic,2022,4,35,15,18,4
-Olympic,2022,5,35,14,17,2
-Olympic,2022,6,50,21,25,6
-Olympic,2022,7,53,25,29,2
-Olympic,2022,8,28,10,12,3
-Olympic,2022,9,36,12,18,5
-Olympic,2022,10,36,16,18,3
-Olympic,2022,11,38,13,14,4
-Olympic,2022,12,29,7,10,2
-Olympic,2023,1,36,14,15,2
-Olympic,2023,2,47,18,21,6
-Olympic,2023,3,28,11,11,4
-Olympic,2023,4,34,10,16,2
-Olympic,2023,5,32,12,14,4
-Olympic,2023,6,33,13,15,4
-Olympic,2023,7,35,17,19,0
-Olympic,2023,8,37,12,14,2
-Olympic,2023,9,31,11,12,0
-Olympic,2023,10,44,13,17,5
-Olympic,2023,11,34,8,12,1
-Olympic,2023,12,34,13,14,1
-Olympic,2024,1,40,20,24,1
-Olympic,2024,2,30,13,14,4
-Olympic,2024,3,38,10,13,1
-Olympic,2024,4,17,1,1,0
-Olympic,2024,5,9,1,1,0
-Olympic,2024,6,10,0,0,0
-Olympic,2024,7,7,0,0,0
+Northeast,2021,5,26,10,11,2
+Northeast,2021,6,10,2,3,0
+Northeast,2021,7,21,4,7,1
+Northeast,2021,8,22,7,9,4
+Northeast,2021,9,17,7,8,4
+Northeast,2021,10,23,6,8,2
+Northeast,2021,11,20,6,7,2
+Northeast,2021,12,26,6,7,2
+Northeast,2022,1,27,5,8,5
+Northeast,2022,2,15,2,3,2
+Northeast,2022,3,17,6,6,3
+Northeast,2022,4,29,5,6,2
+Northeast,2022,5,23,7,7,3
+Northeast,2022,6,27,7,8,2
+Northeast,2022,7,32,10,10,4
+Northeast,2022,8,19,4,5,1
+Northeast,2022,9,24,8,8,2
+Northeast,2022,10,29,10,12,2
+Northeast,2022,11,30,7,7,3
+Northeast,2022,12,28,6,7,1
+Northeast,2023,1,29,5,6,5
+Northeast,2023,2,29,7,9,2
+Northeast,2023,3,23,9,10,2
+Northeast,2023,4,31,7,8,5
+Northeast,2023,5,18,6,7,1
+Northeast,2023,6,24,4,6,0
+Northeast,2023,7,19,6,6,0
+Northeast,2023,8,25,7,8,2
+Northeast,2023,9,29,10,12,2
+Northeast,2023,10,31,6,10,4
+Northeast,2023,11,19,3,8,0
+Northeast,2023,12,17,2,4,1
+Northeast,2024,1,13,7,8,1
+Northeast,2024,2,8,3,3,0
+Northeast,2024,3,13,2,3,0
+Northeast,2024,4,5,0,0,0
+Northeast,2024,5,7,0,0,1
+Northeast,2024,6,7,0,0,0
+Northeast,2024,7,8,0,0,0
+Northeast,2024,8,8,0,0,0
+Northeast,2024,9,8,0,0,0
+Northeast,2024,10,7,0,0,0
+Northeast,2024,11,9,1,1,0
+Northeast,2024,12,8,0,0,0
+Olympic,2020,1,25,7,10,3
+Olympic,2020,2,27,6,10,3
+Olympic,2020,3,15,3,7,2
+Olympic,2020,4,26,6,12,7
+Olympic,2020,5,25,8,10,4
+Olympic,2020,6,22,7,11,1
+Olympic,2020,7,29,7,11,3
+Olympic,2020,8,38,16,20,6
+Olympic,2020,9,28,13,17,1
+Olympic,2020,10,18,8,12,1
+Olympic,2020,11,25,8,11,3
+Olympic,2020,12,21,9,9,2
+Olympic,2021,1,28,7,9,0
+Olympic,2021,2,18,5,6,4
+Olympic,2021,3,23,8,12,1
+Olympic,2021,4,22,3,4,2
+Olympic,2021,5,25,11,13,3
+Olympic,2021,6,27,13,13,3
+Olympic,2021,7,29,11,14,2
+Olympic,2021,8,29,12,13,2
+Olympic,2021,9,32,20,23,3
+Olympic,2021,10,35,17,19,4
+Olympic,2021,11,44,18,20,4
+Olympic,2021,12,32,10,12,0
+Olympic,2022,1,33,12,17,2
+Olympic,2022,2,25,10,13,6
+Olympic,2022,3,25,6,10,1
+Olympic,2022,4,25,13,14,4
+Olympic,2022,5,23,11,14,1
+Olympic,2022,6,39,15,18,4
+Olympic,2022,7,44,19,22,2
+Olympic,2022,8,19,8,10,3
+Olympic,2022,9,27,8,13,4
+Olympic,2022,10,28,13,14,3
+Olympic,2022,11,31,12,13,4
+Olympic,2022,12,23,6,8,1
+Olympic,2023,1,26,10,11,1
+Olympic,2023,2,29,14,16,3
+Olympic,2023,3,24,10,10,3
+Olympic,2023,4,28,9,13,2
+Olympic,2023,5,26,10,11,3
+Olympic,2023,6,26,10,12,2
+Olympic,2023,7,25,9,10,0
+Olympic,2023,8,27,10,11,2
+Olympic,2023,9,22,7,8,0
+Olympic,2023,10,38,12,16,4
+Olympic,2023,11,25,6,9,1
+Olympic,2023,12,27,11,12,0
+Olympic,2024,1,32,15,17,1
+Olympic,2024,2,22,10,10,2
+Olympic,2024,3,27,8,10,1
+Olympic,2024,4,12,1,1,0
+Olympic,2024,5,6,1,1,0
+Olympic,2024,6,7,0,0,0
+Olympic,2024,7,5,0,0,0
 Olympic,2024,8,4,0,0,0
-Olympic,2024,9,9,1,1,0
+Olympic,2024,9,6,1,1,0
 Olympic,2024,10,5,0,0,0
-Olympic,2024,11,6,0,0,0
-Olympic,2024,12,5,0,0,0
-Pacific,2020,1,40,8,12,4
-Pacific,2020,2,34,13,15,0
-Pacific,2020,3,25,6,10,0
-Pacific,2020,4,26,2,6,2
-Pacific,2020,5,30,7,11,6
-Pacific,2020,6,30,9,13,1
-Pacific,2020,7,53,17,24,6
-Pacific,2020,8,35,11,15,4
-Pacific,2020,9,35,13,18,6
-Pacific,2020,10,28,8,9,4
-Pacific,2020,11,30,7,11,0
-Pacific,2020,12,26,9,15,3
-Pacific,2021,1,34,3,8,5
-Pacific,2021,2,37,9,17,4
-Pacific,2021,3,41,12,14,2
-Pacific,2021,4,33,8,10,4
-Pacific,2021,5,48,18,21,7
-Pacific,2021,6,43,12,16,4
-Pacific,2021,7,34,10,13,5
-Pacific,2021,8,48,10,19,5
-Pacific,2021,9,36,7,14,1
-Pacific,2021,10,39,8,16,5
-Pacific,2021,11,40,9,14,2
-Pacific,2021,12,46,10,10,2
-Pacific,2022,1,42,8,12,2
-Pacific,2022,2,40,12,18,1
-Pacific,2022,3,39,6,12,1
-Pacific,2022,4,44,9,15,3
-Pacific,2022,5,44,9,15,5
-Pacific,2022,6,26,4,7,1
-Pacific,2022,7,42,18,18,4
-Pacific,2022,8,46,9,17,5
-Pacific,2022,9,43,14,17,4
-Pacific,2022,10,45,4,7,0
-Pacific,2022,11,29,8,10,0
-Pacific,2022,12,43,7,11,1
-Pacific,2023,1,41,4,9,0
-Pacific,2023,2,40,7,10,2
-Pacific,2023,3,39,5,8,2
-Pacific,2023,4,51,4,16,4
-Pacific,2023,5,46,9,13,4
-Pacific,2023,6,44,4,14,2
-Pacific,2023,7,44,7,13,6
-Pacific,2023,8,37,8,11,3
-Pacific,2023,9,40,6,16,3
-Pacific,2023,10,59,9,22,3
-Pacific,2023,11,51,9,15,3
-Pacific,2023,12,42,11,16,2
-Pacific,2024,1,38,10,17,1
-Pacific,2024,2,35,11,19,3
-Pacific,2024,3,47,4,12,0
-Pacific,2024,4,27,3,16,7
-Pacific,2024,5,23,2,11,1
-Pacific,2024,6,18,0,6,0
-Pacific,2024,7,19,1,7,0
-Pacific,2024,8,19,2,10,0
-Pacific,2024,9,15,0,4,0
-Pacific,2024,10,16,0,6,0
-Pacific,2024,11,16,1,2,1
-Pacific,2024,12,13,1,5,0
-Rampart,2020,1,38,14,20,2
-Rampart,2020,2,37,18,22,7
-Rampart,2020,3,21,4,7,1
-Rampart,2020,4,27,8,10,2
-Rampart,2020,5,28,10,12,0
-Rampart,2020,6,29,14,17,4
-Rampart,2020,7,27,12,12,2
-Rampart,2020,8,34,17,20,3
-Rampart,2020,9,36,18,24,5
-Rampart,2020,10,27,14,19,3
-Rampart,2020,11,27,14,16,3
-Rampart,2020,12,43,20,23,9
-Rampart,2021,1,32,18,20,6
-Rampart,2021,2,32,13,19,5
-Rampart,2021,3,23,12,13,2
-Rampart,2021,4,23,8,9,1
-Rampart,2021,5,29,10,13,3
-Rampart,2021,6,30,13,17,2
-Rampart,2021,7,29,14,18,5
-Rampart,2021,8,27,14,16,4
-Rampart,2021,9,35,16,20,5
-Rampart,2021,10,17,4,4,0
-Rampart,2021,11,38,15,18,4
-Rampart,2021,12,28,10,12,2
-Rampart,2022,1,28,17,17,3
-Rampart,2022,2,32,7,9,2
-Rampart,2022,3,42,11,18,4
-Rampart,2022,4,38,9,12,2
-Rampart,2022,5,42,17,22,6
-Rampart,2022,6,45,16,22,5
-Rampart,2022,7,27,11,16,3
-Rampart,2022,8,33,13,19,6
-Rampart,2022,9,33,15,21,2
-Rampart,2022,10,34,18,22,4
-Rampart,2022,11,25,8,14,3
-Rampart,2022,12,34,13,19,6
-Rampart,2023,1,34,15,17,4
-Rampart,2023,2,29,5,12,3
-Rampart,2023,3,37,12,14,3
-Rampart,2023,4,36,19,22,2
-Rampart,2023,5,33,14,19,2
-Rampart,2023,6,32,15,17,3
-Rampart,2023,7,39,21,24,6
-Rampart,2023,8,35,10,15,6
-Rampart,2023,9,41,24,26,6
-Rampart,2023,10,30,14,15,3
-Rampart,2023,11,38,19,20,3
-Rampart,2023,12,29,7,13,1
-Rampart,2024,1,32,19,24,7
-Rampart,2024,2,36,16,22,4
-Rampart,2024,3,15,5,7,3
-Rampart,2024,4,13,1,1,0
+Olympic,2024,11,5,0,0,0
+Olympic,2024,12,3,0,0,0
+Pacific,2020,1,29,7,9,3
+Pacific,2020,2,26,10,12,0
+Pacific,2020,3,19,4,7,0
+Pacific,2020,4,21,2,5,2
+Pacific,2020,5,18,6,6,5
+Pacific,2020,6,27,9,13,1
+Pacific,2020,7,37,9,13,4
+Pacific,2020,8,29,10,14,4
+Pacific,2020,9,27,10,14,5
+Pacific,2020,10,21,5,6,3
+Pacific,2020,11,26,6,9,0
+Pacific,2020,12,17,7,9,3
+Pacific,2021,1,31,2,7,5
+Pacific,2021,2,29,9,17,4
+Pacific,2021,3,33,10,12,2
+Pacific,2021,4,28,7,7,4
+Pacific,2021,5,39,15,18,6
+Pacific,2021,6,30,10,14,3
+Pacific,2021,7,25,7,9,3
+Pacific,2021,8,41,8,14,4
+Pacific,2021,9,29,5,10,1
+Pacific,2021,10,27,5,9,2
+Pacific,2021,11,31,7,12,2
+Pacific,2021,12,38,8,8,2
+Pacific,2022,1,30,7,9,2
+Pacific,2022,2,26,8,11,0
+Pacific,2022,3,28,3,8,1
+Pacific,2022,4,33,7,11,3
+Pacific,2022,5,33,8,13,5
+Pacific,2022,6,19,3,4,1
+Pacific,2022,7,34,15,15,4
+Pacific,2022,8,36,7,14,4
+Pacific,2022,9,35,10,13,4
+Pacific,2022,10,35,1,4,0
+Pacific,2022,11,22,7,7,0
+Pacific,2022,12,38,6,10,1
+Pacific,2023,1,34,4,8,0
+Pacific,2023,2,30,5,6,2
+Pacific,2023,3,30,5,8,1
+Pacific,2023,4,38,3,10,4
+Pacific,2023,5,36,8,11,1
+Pacific,2023,6,35,4,12,1
+Pacific,2023,7,34,6,11,2
+Pacific,2023,8,27,4,7,1
+Pacific,2023,9,33,5,15,2
+Pacific,2023,10,45,7,18,3
+Pacific,2023,11,36,5,9,2
+Pacific,2023,12,33,8,13,1
+Pacific,2024,1,32,10,16,1
+Pacific,2024,2,30,11,16,3
+Pacific,2024,3,34,4,8,0
+Pacific,2024,4,24,2,13,7
+Pacific,2024,5,18,2,9,1
+Pacific,2024,6,13,0,4,0
+Pacific,2024,7,18,1,7,0
+Pacific,2024,8,11,2,6,0
+Pacific,2024,9,12,0,3,0
+Pacific,2024,10,13,0,5,0
+Pacific,2024,11,12,1,2,1
+Pacific,2024,12,11,1,5,0
+Rampart,2020,1,35,11,17,2
+Rampart,2020,2,27,12,14,4
+Rampart,2020,3,13,1,3,0
+Rampart,2020,4,22,7,9,2
+Rampart,2020,5,19,8,9,0
+Rampart,2020,6,26,14,17,3
+Rampart,2020,7,19,8,8,2
+Rampart,2020,8,31,16,18,3
+Rampart,2020,9,29,15,21,4
+Rampart,2020,10,22,11,15,2
+Rampart,2020,11,24,13,14,3
+Rampart,2020,12,28,14,16,6
+Rampart,2021,1,22,13,15,5
+Rampart,2021,2,26,11,15,5
+Rampart,2021,3,18,9,10,1
+Rampart,2021,4,16,4,5,0
+Rampart,2021,5,23,8,11,3
+Rampart,2021,6,23,9,13,1
+Rampart,2021,7,21,9,13,4
+Rampart,2021,8,20,12,14,3
+Rampart,2021,9,27,14,16,3
+Rampart,2021,10,15,3,3,0
+Rampart,2021,11,28,10,12,2
+Rampart,2021,12,20,6,8,2
+Rampart,2022,1,23,14,14,3
+Rampart,2022,2,22,4,5,1
+Rampart,2022,3,31,9,16,3
+Rampart,2022,4,29,6,8,1
+Rampart,2022,5,32,12,15,4
+Rampart,2022,6,35,14,18,3
+Rampart,2022,7,22,10,14,2
+Rampart,2022,8,31,13,19,5
+Rampart,2022,9,22,9,13,1
+Rampart,2022,10,26,11,15,3
+Rampart,2022,11,16,4,7,2
+Rampart,2022,12,24,10,14,3
+Rampart,2023,1,27,14,15,3
+Rampart,2023,2,21,3,6,1
+Rampart,2023,3,30,12,14,3
+Rampart,2023,4,26,17,20,1
+Rampart,2023,5,25,11,13,2
+Rampart,2023,6,22,10,12,1
+Rampart,2023,7,28,15,17,3
+Rampart,2023,8,27,7,11,4
+Rampart,2023,9,32,18,20,6
+Rampart,2023,10,24,13,14,3
+Rampart,2023,11,26,11,12,3
+Rampart,2023,12,24,6,12,1
+Rampart,2024,1,22,13,16,5
+Rampart,2024,2,28,11,16,3
+Rampart,2024,3,11,5,6,3
+Rampart,2024,4,11,1,1,0
 Rampart,2024,5,5,0,0,1
-Rampart,2024,6,9,0,0,0
-Rampart,2024,7,9,0,2,0
-Rampart,2024,8,10,0,1,0
-Rampart,2024,9,15,2,2,0
-Rampart,2024,10,7,0,0,0
-Rampart,2024,11,9,2,2,0
-Rampart,2024,12,9,0,0,0
-Southeast,2020,1,34,18,24,6
-Southeast,2020,2,35,18,23,1
-Southeast,2020,3,30,14,17,4
-Southeast,2020,4,36,14,21,8
-Southeast,2020,5,34,13,20,4
-Southeast,2020,6,36,21,25,5
-Southeast,2020,7,40,15,24,5
-Southeast,2020,8,34,17,25,3
-Southeast,2020,9,36,16,24,2
-Southeast,2020,10,31,19,24,3
-Southeast,2020,11,34,18,22,2
-Southeast,2020,12,34,15,20,4
-Southeast,2021,1,33,14,20,2
-Southeast,2021,2,27,9,13,1
-Southeast,2021,3,26,10,15,1
-Southeast,2021,4,30,16,18,3
-Southeast,2021,5,26,10,11,2
-Southeast,2021,6,28,11,15,3
-Southeast,2021,7,28,12,15,3
-Southeast,2021,8,29,12,20,4
-Southeast,2021,9,32,18,20,2
-Southeast,2021,10,32,21,23,1
-Southeast,2021,11,19,9,11,0
-Southeast,2021,12,33,24,25,2
-Southeast,2022,1,50,25,29,7
-Southeast,2022,2,29,17,21,5
-Southeast,2022,3,46,23,28,2
-Southeast,2022,4,42,23,25,3
-Southeast,2022,5,37,12,15,2
-Southeast,2022,6,38,13,17,1
-Southeast,2022,7,41,17,19,2
-Southeast,2022,8,41,21,26,4
-Southeast,2022,9,43,21,25,1
-Southeast,2022,10,30,14,16,2
-Southeast,2022,11,40,15,19,3
-Southeast,2022,12,43,20,24,2
-Southeast,2023,1,46,12,16,4
-Southeast,2023,2,46,19,24,6
-Southeast,2023,3,39,14,17,2
-Southeast,2023,4,32,18,21,2
-Southeast,2023,5,36,17,19,2
-Southeast,2023,6,31,15,20,1
-Southeast,2023,7,43,17,24,3
-Southeast,2023,8,41,23,24,1
-Southeast,2023,9,32,14,19,1
-Southeast,2023,10,38,23,27,3
-Southeast,2023,11,32,13,16,1
-Southeast,2023,12,41,18,19,6
-Southeast,2024,1,33,10,15,1
-Southeast,2024,2,29,14,19,5
-Southeast,2024,3,22,9,15,0
-Southeast,2024,4,30,18,22,2
-Southeast,2024,5,13,6,6,0
+Rampart,2024,6,7,0,0,0
+Rampart,2024,7,8,0,2,0
+Rampart,2024,8,6,0,1,0
+Rampart,2024,9,11,1,1,0
+Rampart,2024,10,5,0,0,0
+Rampart,2024,11,8,2,2,0
+Rampart,2024,12,6,0,0,0
+Southeast,2020,1,25,16,18,5
+Southeast,2020,2,31,15,20,1
+Southeast,2020,3,22,12,14,4
+Southeast,2020,4,30,11,17,7
+Southeast,2020,5,29,11,17,3
+Southeast,2020,6,29,17,19,5
+Southeast,2020,7,28,9,17,3
+Southeast,2020,8,26,14,20,2
+Southeast,2020,9,29,13,19,2
+Southeast,2020,10,18,8,12,1
+Southeast,2020,11,24,11,15,0
+Southeast,2020,12,25,11,14,3
+Southeast,2021,1,27,13,18,2
+Southeast,2021,2,17,5,8,0
+Southeast,2021,3,16,7,8,0
+Southeast,2021,4,21,10,11,2
+Southeast,2021,5,21,10,11,2
+Southeast,2021,6,19,9,9,2
+Southeast,2021,7,22,9,12,2
+Southeast,2021,8,22,10,17,4
+Southeast,2021,9,27,15,17,1
+Southeast,2021,10,26,18,20,1
+Southeast,2021,11,16,8,9,0
+Southeast,2021,12,28,19,20,2
+Southeast,2022,1,37,19,22,5
+Southeast,2022,2,23,13,16,3
+Southeast,2022,3,32,14,19,2
+Southeast,2022,4,27,15,17,2
+Southeast,2022,5,28,7,10,2
+Southeast,2022,6,27,8,9,1
+Southeast,2022,7,30,14,15,2
+Southeast,2022,8,34,19,22,3
+Southeast,2022,9,36,17,20,1
+Southeast,2022,10,21,11,13,2
+Southeast,2022,11,34,14,17,2
+Southeast,2022,12,30,14,18,2
+Southeast,2023,1,36,10,12,3
+Southeast,2023,2,39,15,20,6
+Southeast,2023,3,29,9,12,1
+Southeast,2023,4,25,15,18,1
+Southeast,2023,5,28,15,15,1
+Southeast,2023,6,22,11,14,0
+Southeast,2023,7,32,12,18,3
+Southeast,2023,8,33,19,20,1
+Southeast,2023,9,24,10,13,1
+Southeast,2023,10,30,18,21,2
+Southeast,2023,11,21,7,8,0
+Southeast,2023,12,30,14,15,5
+Southeast,2024,1,28,10,14,1
+Southeast,2024,2,20,10,14,3
+Southeast,2024,3,18,9,13,0
+Southeast,2024,4,23,15,18,2
+Southeast,2024,5,10,5,5,0
 Southeast,2024,6,1,0,0,0
-Southeast,2024,7,6,0,0,0
-Southeast,2024,8,4,0,0,0
-Southeast,2024,9,6,0,0,0
-Southeast,2024,10,7,0,0,0
-Southeast,2024,11,6,0,0,0
-Southeast,2024,12,4,1,1,0
-Southwest,2020,1,52,32,34,5
-Southwest,2020,2,37,9,11,3
-Southwest,2020,3,49,17,22,7
-Southwest,2020,4,34,11,18,1
-Southwest,2020,5,40,22,25,4
-Southwest,2020,6,45,18,25,6
-Southwest,2020,7,40,18,21,2
-Southwest,2020,8,42,17,23,4
-Southwest,2020,9,35,15,17,1
-Southwest,2020,10,36,13,19,4
-Southwest,2020,11,43,18,23,4
-Southwest,2020,12,31,13,15,0
-Southwest,2021,1,44,17,23,5
-Southwest,2021,2,39,13,17,7
-Southwest,2021,3,37,15,18,3
-Southwest,2021,4,43,18,28,5
-Southwest,2021,5,35,12,18,5
-Southwest,2021,6,49,16,27,3
-Southwest,2021,7,49,14,21,9
-Southwest,2021,8,44,19,23,4
-Southwest,2021,9,51,13,18,2
-Southwest,2021,10,41,18,25,7
-Southwest,2021,11,32,12,17,3
-Southwest,2021,12,37,12,13,1
-Southwest,2022,1,33,9,14,2
-Southwest,2022,2,45,11,13,3
-Southwest,2022,3,41,12,20,7
-Southwest,2022,4,55,21,26,3
-Southwest,2022,5,45,12,15,6
-Southwest,2022,6,44,14,20,5
-Southwest,2022,7,39,19,23,3
-Southwest,2022,8,50,19,23,6
-Southwest,2022,9,53,15,21,2
-Southwest,2022,10,66,14,17,4
-Southwest,2022,11,56,19,24,7
-Southwest,2022,12,50,14,20,7
-Southwest,2023,1,47,12,15,5
-Southwest,2023,2,59,17,20,5
-Southwest,2023,3,43,20,21,10
-Southwest,2023,4,47,16,18,5
-Southwest,2023,5,34,9,12,5
-Southwest,2023,6,39,11,18,7
-Southwest,2023,7,51,18,29,6
-Southwest,2023,8,39,13,18,2
-Southwest,2023,9,48,15,17,8
-Southwest,2023,10,61,25,31,7
-Southwest,2023,11,36,9,15,3
-Southwest,2023,12,47,21,23,5
-Southwest,2024,1,45,17,22,8
-Southwest,2024,2,46,14,19,3
-Southwest,2024,3,47,17,19,5
-Southwest,2024,4,40,11,17,2
-Southwest,2024,5,24,2,4,0
-Southwest,2024,6,23,2,2,2
-Southwest,2024,7,18,1,2,0
-Southwest,2024,8,26,0,0,0
-Southwest,2024,9,20,2,2,0
-Southwest,2024,10,18,0,2,2
-Southwest,2024,11,20,0,0,1
-Southwest,2024,12,7,0,1,0
-Topanga,2020,1,40,9,10,6
-Topanga,2020,2,39,11,12,2
-Topanga,2020,3,34,7,12,6
-Topanga,2020,4,25,5,9,5
-Topanga,2020,5,28,5,5,2
-Topanga,2020,6,34,11,15,8
-Topanga,2020,7,36,7,13,5
-Topanga,2020,8,23,7,7,3
-Topanga,2020,9,23,7,9,2
-Topanga,2020,10,30,7,9,5
-Topanga,2020,11,28,6,6,0
-Topanga,2020,12,24,3,5,5
-Topanga,2021,1,26,6,8,3
-Topanga,2021,2,18,4,4,1
-Topanga,2021,3,34,7,8,3
-Topanga,2021,4,26,4,6,5
-Topanga,2021,5,38,9,12,1
-Topanga,2021,6,35,3,3,2
-Topanga,2021,7,28,10,13,5
-Topanga,2021,8,32,6,7,2
-Topanga,2021,9,37,8,10,6
-Topanga,2021,10,31,5,8,2
-Topanga,2021,11,28,6,6,4
-Topanga,2021,12,38,9,11,4
-Topanga,2022,1,22,6,11,4
-Topanga,2022,2,48,15,19,8
-Topanga,2022,3,35,7,8,5
-Topanga,2022,4,32,5,7,2
-Topanga,2022,5,42,18,19,9
-Topanga,2022,6,39,10,12,8
-Topanga,2022,7,41,15,18,4
-Topanga,2022,8,51,9,15,5
-Topanga,2022,9,27,4,7,5
-Topanga,2022,10,39,12,15,4
-Topanga,2022,11,27,6,8,1
-Topanga,2022,12,37,7,11,2
-Topanga,2023,1,33,7,11,3
-Topanga,2023,2,36,5,7,3
-Topanga,2023,3,34,5,8,4
-Topanga,2023,4,35,6,8,2
-Topanga,2023,5,25,11,12,3
-Topanga,2023,6,32,10,12,5
-Topanga,2023,7,28,10,10,6
-Topanga,2023,8,44,14,15,6
-Topanga,2023,9,42,11,12,5
-Topanga,2023,10,32,8,9,5
-Topanga,2023,11,34,9,11,6
-Topanga,2023,12,38,9,14,4
-Topanga,2024,1,35,6,9,9
-Topanga,2024,2,29,1,6,5
-Topanga,2024,3,29,5,7,3
-Topanga,2024,4,33,5,5,2
-Topanga,2024,5,17,4,5,2
-Topanga,2024,6,16,0,0,0
-Topanga,2024,7,9,0,0,1
-Topanga,2024,8,14,0,1,1
-Topanga,2024,9,15,0,0,1
-Topanga,2024,10,7,0,0,0
-Topanga,2024,11,10,1,1,0
-Topanga,2024,12,5,0,0,0
-Van Nuys,2020,1,30,8,9,3
-Van Nuys,2020,2,35,8,13,3
-Van Nuys,2020,3,38,11,14,9
-Van Nuys,2020,4,30,14,15,7
-Van Nuys,2020,5,26,8,9,4
-Van Nuys,2020,6,37,11,15,8
-Van Nuys,2020,7,26,8,10,4
-Van Nuys,2020,8,36,8,12,3
-Van Nuys,2020,9,33,10,14,4
-Van Nuys,2020,10,22,6,9,3
-Van Nuys,2020,11,26,6,7,3
-Van Nuys,2020,12,27,10,11,4
-Van Nuys,2021,1,26,7,8,4
-Van Nuys,2021,2,28,2,3,0
-Van Nuys,2021,3,36,9,12,5
-Van Nuys,2021,4,33,10,12,3
-Van Nuys,2021,5,28,8,8,1
-Van Nuys,2021,6,30,9,10,4
-Van Nuys,2021,7,24,8,8,1
-Van Nuys,2021,8,33,12,15,8
-Van Nuys,2021,9,44,14,19,6
-Van Nuys,2021,10,26,4,7,1
-Van Nuys,2021,11,19,6,6,2
-Van Nuys,2021,12,37,7,12,4
-Van Nuys,2022,1,32,6,8,4
-Van Nuys,2022,2,21,8,8,2
-Van Nuys,2022,3,22,5,6,4
-Van Nuys,2022,4,39,12,13,5
-Van Nuys,2022,5,33,7,9,6
-Van Nuys,2022,6,29,4,9,3
-Van Nuys,2022,7,33,7,7,1
-Van Nuys,2022,8,30,8,10,7
-Van Nuys,2022,9,28,6,9,3
-Van Nuys,2022,10,42,6,11,7
-Van Nuys,2022,11,35,4,6,3
-Van Nuys,2022,12,41,10,14,6
-Van Nuys,2023,1,33,11,11,5
-Van Nuys,2023,2,31,8,10,4
-Van Nuys,2023,3,38,10,11,7
-Van Nuys,2023,4,30,4,6,2
-Van Nuys,2023,5,27,7,8,2
-Van Nuys,2023,6,39,9,10,7
-Van Nuys,2023,7,33,12,14,2
-Van Nuys,2023,8,34,13,18,5
-Van Nuys,2023,9,25,8,10,3
-Van Nuys,2023,10,34,8,9,7
-Van Nuys,2023,11,30,12,13,5
-Van Nuys,2023,12,28,8,10,3
-Van Nuys,2024,1,20,2,4,3
-Van Nuys,2024,2,27,4,4,2
-Van Nuys,2024,3,22,5,7,2
-Van Nuys,2024,4,22,8,10,2
-Van Nuys,2024,5,14,1,2,0
-Van Nuys,2024,6,9,0,0,0
-Van Nuys,2024,7,10,0,0,0
-Van Nuys,2024,8,8,0,1,1
-Van Nuys,2024,9,6,0,0,0
-Van Nuys,2024,10,6,0,0,0
+Southeast,2024,7,1,0,0,0
+Southeast,2024,8,3,0,0,0
+Southeast,2024,9,4,0,0,0
+Southeast,2024,10,6,0,0,0
+Southeast,2024,11,5,0,0,0
+Southeast,2024,12,2,1,1,0
+Southwest,2020,1,41,24,26,5
+Southwest,2020,2,26,7,8,2
+Southwest,2020,3,37,15,18,5
+Southwest,2020,4,28,7,13,1
+Southwest,2020,5,31,19,21,2
+Southwest,2020,6,31,11,16,3
+Southwest,2020,7,33,14,17,2
+Southwest,2020,8,31,12,17,3
+Southwest,2020,9,24,10,11,1
+Southwest,2020,10,22,10,12,2
+Southwest,2020,11,34,13,18,3
+Southwest,2020,12,22,10,11,0
+Southwest,2021,1,33,13,18,3
+Southwest,2021,2,25,10,12,3
+Southwest,2021,3,29,11,13,2
+Southwest,2021,4,37,14,23,3
+Southwest,2021,5,28,8,14,4
+Southwest,2021,6,39,15,21,2
+Southwest,2021,7,33,10,15,8
+Southwest,2021,8,33,13,15,2
+Southwest,2021,9,42,10,14,2
+Southwest,2021,10,29,14,20,5
+Southwest,2021,11,24,9,13,2
+Southwest,2021,12,29,11,11,1
+Southwest,2022,1,21,5,7,2
+Southwest,2022,2,33,8,10,2
+Southwest,2022,3,31,8,14,5
+Southwest,2022,4,40,15,19,2
+Southwest,2022,5,40,11,14,5
+Southwest,2022,6,33,11,16,4
+Southwest,2022,7,28,15,18,2
+Southwest,2022,8,35,13,15,5
+Southwest,2022,9,39,10,13,1
+Southwest,2022,10,48,11,12,2
+Southwest,2022,11,48,16,20,7
+Southwest,2022,12,39,10,15,5
+Southwest,2023,1,38,9,11,4
+Southwest,2023,2,51,13,16,5
+Southwest,2023,3,30,14,15,5
+Southwest,2023,4,34,11,13,2
+Southwest,2023,5,26,6,9,4
+Southwest,2023,6,25,6,8,3
+Southwest,2023,7,37,12,19,3
+Southwest,2023,8,31,10,14,2
+Southwest,2023,9,39,11,13,6
+Southwest,2023,10,47,20,26,5
+Southwest,2023,11,29,7,12,1
+Southwest,2023,12,37,15,17,5
+Southwest,2024,1,36,13,18,8
+Southwest,2024,2,37,10,15,1
+Southwest,2024,3,34,16,18,2
+Southwest,2024,4,30,10,15,2
+Southwest,2024,5,17,1,2,0
+Southwest,2024,6,19,2,2,2
+Southwest,2024,7,14,1,1,0
+Southwest,2024,8,20,0,0,0
+Southwest,2024,9,15,2,2,0
+Southwest,2024,10,17,0,2,2
+Southwest,2024,11,17,0,0,0
+Southwest,2024,12,3,0,1,0
+Topanga,2020,1,29,6,7,3
+Topanga,2020,2,31,10,11,0
+Topanga,2020,3,23,6,9,3
+Topanga,2020,4,19,3,7,5
+Topanga,2020,5,19,4,4,2
+Topanga,2020,6,24,6,9,5
+Topanga,2020,7,30,5,10,5
+Topanga,2020,8,16,5,5,2
+Topanga,2020,9,18,7,8,1
+Topanga,2020,10,27,6,8,3
+Topanga,2020,11,20,6,6,0
+Topanga,2020,12,16,3,5,5
+Topanga,2021,1,19,5,6,2
+Topanga,2021,2,13,1,1,0
+Topanga,2021,3,26,6,7,2
+Topanga,2021,4,21,3,5,5
+Topanga,2021,5,31,7,10,1
+Topanga,2021,6,21,2,2,1
+Topanga,2021,7,19,3,6,4
+Topanga,2021,8,23,4,5,2
+Topanga,2021,9,25,7,8,4
+Topanga,2021,10,23,4,6,2
+Topanga,2021,11,23,5,5,4
+Topanga,2021,12,29,6,8,4
+Topanga,2022,1,13,4,7,3
+Topanga,2022,2,38,12,15,5
+Topanga,2022,3,27,6,6,4
+Topanga,2022,4,27,2,4,2
+Topanga,2022,5,30,15,15,8
+Topanga,2022,6,29,7,9,6
+Topanga,2022,7,27,11,12,4
+Topanga,2022,8,36,5,8,2
+Topanga,2022,9,16,3,5,3
+Topanga,2022,10,27,7,9,3
+Topanga,2022,11,21,5,7,1
+Topanga,2022,12,29,5,8,2
+Topanga,2023,1,28,6,9,3
+Topanga,2023,2,26,4,4,2
+Topanga,2023,3,28,5,8,4
+Topanga,2023,4,31,5,7,2
+Topanga,2023,5,21,10,10,3
+Topanga,2023,6,24,7,8,3
+Topanga,2023,7,23,9,9,5
+Topanga,2023,8,35,13,14,6
+Topanga,2023,9,31,9,10,3
+Topanga,2023,10,26,5,6,3
+Topanga,2023,11,25,6,7,2
+Topanga,2023,12,28,6,10,4
+Topanga,2024,1,26,5,7,7
+Topanga,2024,2,23,1,4,5
+Topanga,2024,3,25,4,6,3
+Topanga,2024,4,27,5,5,2
+Topanga,2024,5,12,3,4,1
+Topanga,2024,6,13,0,0,0
+Topanga,2024,7,7,0,0,0
+Topanga,2024,8,12,0,1,1
+Topanga,2024,9,11,0,0,1
+Topanga,2024,10,3,0,0,0
+Topanga,2024,11,6,0,0,0
+Topanga,2024,12,4,0,0,0
+Van Nuys,2020,1,23,7,7,3
+Van Nuys,2020,2,27,7,10,2
+Van Nuys,2020,3,30,8,11,6
+Van Nuys,2020,4,23,12,13,5
+Van Nuys,2020,5,20,7,7,3
+Van Nuys,2020,6,30,7,11,7
+Van Nuys,2020,7,19,4,6,4
+Van Nuys,2020,8,27,4,7,2
+Van Nuys,2020,9,24,7,10,3
+Van Nuys,2020,10,21,5,8,3
+Van Nuys,2020,11,21,4,5,2
+Van Nuys,2020,12,22,7,8,4
+Van Nuys,2021,1,18,4,4,4
+Van Nuys,2021,2,26,2,3,0
+Van Nuys,2021,3,28,8,9,5
+Van Nuys,2021,4,28,9,11,3
+Van Nuys,2021,5,24,6,6,1
+Van Nuys,2021,6,26,7,8,4
+Van Nuys,2021,7,21,7,7,1
+Van Nuys,2021,8,27,10,12,7
+Van Nuys,2021,9,35,12,17,6
+Van Nuys,2021,10,15,1,4,1
+Van Nuys,2021,11,16,6,6,2
+Van Nuys,2021,12,26,6,9,4
+Van Nuys,2022,1,25,5,7,3
+Van Nuys,2022,2,17,5,5,2
+Van Nuys,2022,3,18,4,5,4
+Van Nuys,2022,4,29,8,8,4
+Van Nuys,2022,5,26,5,7,3
+Van Nuys,2022,6,21,2,6,3
+Van Nuys,2022,7,28,5,5,1
+Van Nuys,2022,8,26,7,9,4
+Van Nuys,2022,9,23,3,6,1
+Van Nuys,2022,10,33,5,10,6
+Van Nuys,2022,11,22,2,3,2
+Van Nuys,2022,12,30,7,11,2
+Van Nuys,2023,1,27,9,9,5
+Van Nuys,2023,2,26,7,9,3
+Van Nuys,2023,3,33,9,10,7
+Van Nuys,2023,4,26,3,4,1
+Van Nuys,2023,5,17,5,6,1
+Van Nuys,2023,6,32,6,7,6
+Van Nuys,2023,7,28,11,13,1
+Van Nuys,2023,8,23,9,12,3
+Van Nuys,2023,9,22,6,8,2
+Van Nuys,2023,10,31,8,9,6
+Van Nuys,2023,11,23,9,10,5
+Van Nuys,2023,12,23,6,8,3
+Van Nuys,2024,1,14,1,1,3
+Van Nuys,2024,2,20,4,4,2
+Van Nuys,2024,3,17,3,4,1
+Van Nuys,2024,4,16,8,10,2
+Van Nuys,2024,5,11,0,1,0
+Van Nuys,2024,6,7,0,0,0
+Van Nuys,2024,7,9,0,0,0
+Van Nuys,2024,8,5,0,1,1
+Van Nuys,2024,9,5,0,0,0
+Van Nuys,2024,10,4,0,0,0
 Van Nuys,2024,11,7,0,0,0
 Van Nuys,2024,12,5,0,0,0
-West LA,2020,1,21,5,5,1
-West LA,2020,2,31,4,7,1
-West LA,2020,3,35,8,10,8
-West LA,2020,4,31,7,11,1
-West LA,2020,5,29,5,9,2
-West LA,2020,6,27,4,7,2
-West LA,2020,7,24,3,3,0
-West LA,2020,8,20,4,5,2
-West LA,2020,9,24,5,5,1
-West LA,2020,10,32,2,6,1
-West LA,2020,11,33,6,6,2
-West LA,2020,12,32,3,3,2
-West LA,2021,1,31,3,6,3
-West LA,2021,2,33,4,6,3
-West LA,2021,3,34,4,8,3
-West LA,2021,4,29,6,11,3
-West LA,2021,5,38,13,15,5
-West LA,2021,6,32,10,13,2
-West LA,2021,7,41,4,8,3
-West LA,2021,8,33,4,7,3
-West LA,2021,9,27,6,8,2
-West LA,2021,10,31,10,11,2
-West LA,2021,11,35,9,9,0
-West LA,2021,12,30,4,6,1
-West LA,2022,1,32,8,11,1
-West LA,2022,2,44,6,14,1
-West LA,2022,3,36,6,7,1
-West LA,2022,4,29,3,8,1
-West LA,2022,5,39,8,12,2
-West LA,2022,6,48,8,12,2
-West LA,2022,7,31,3,5,0
-West LA,2022,8,35,4,9,3
-West LA,2022,9,33,6,8,4
-West LA,2022,10,30,3,7,1
-West LA,2022,11,30,3,4,1
-West LA,2022,12,42,8,9,2
-West LA,2023,1,41,10,13,1
-West LA,2023,2,30,5,8,1
-West LA,2023,3,36,6,10,2
-West LA,2023,4,28,2,4,0
-West LA,2023,5,23,4,8,2
-West LA,2023,6,31,5,8,1
-West LA,2023,7,32,7,11,0
-West LA,2023,8,29,6,8,1
-West LA,2023,9,42,9,14,0
-West LA,2023,10,42,10,17,1
-West LA,2023,11,20,6,10,0
-West LA,2023,12,22,4,9,0
-West LA,2024,1,37,6,9,1
-West LA,2024,2,18,3,7,0
-West LA,2024,3,18,5,8,0
+West LA,2020,1,17,3,3,1
+West LA,2020,2,25,3,6,1
+West LA,2020,3,27,7,8,6
+West LA,2020,4,26,6,9,0
+West LA,2020,5,21,4,7,2
+West LA,2020,6,18,3,5,1
+West LA,2020,7,22,2,2,0
+West LA,2020,8,17,4,5,2
+West LA,2020,9,17,5,5,1
+West LA,2020,10,25,2,5,1
+West LA,2020,11,27,4,4,2
+West LA,2020,12,23,2,2,2
+West LA,2021,1,24,1,3,2
+West LA,2021,2,26,2,4,3
+West LA,2021,3,29,3,4,2
+West LA,2021,4,23,6,9,2
+West LA,2021,5,28,8,10,4
+West LA,2021,6,27,6,9,2
+West LA,2021,7,31,4,6,3
+West LA,2021,8,28,3,3,2
+West LA,2021,9,22,5,7,2
+West LA,2021,10,25,8,9,2
+West LA,2021,11,27,6,6,0
+West LA,2021,12,22,3,5,1
+West LA,2022,1,24,7,10,1
+West LA,2022,2,33,6,12,0
+West LA,2022,3,31,5,6,1
+West LA,2022,4,20,1,6,1
+West LA,2022,5,33,7,11,2
+West LA,2022,6,38,6,8,1
+West LA,2022,7,23,3,4,0
+West LA,2022,8,32,4,9,2
+West LA,2022,9,27,6,8,3
+West LA,2022,10,27,3,6,1
+West LA,2022,11,27,3,4,1
+West LA,2022,12,30,6,6,2
+West LA,2023,1,30,8,9,1
+West LA,2023,2,28,4,7,1
+West LA,2023,3,26,4,8,2
+West LA,2023,4,19,2,4,0
+West LA,2023,5,21,4,8,2
+West LA,2023,6,27,3,5,0
+West LA,2023,7,25,6,9,0
+West LA,2023,8,23,4,6,1
+West LA,2023,9,32,6,10,0
+West LA,2023,10,29,8,13,1
+West LA,2023,11,16,4,8,0
+West LA,2023,12,14,3,5,0
+West LA,2024,1,23,5,8,1
+West LA,2024,2,16,2,5,0
+West LA,2024,3,15,4,6,0
 West LA,2024,4,8,0,0,0
-West LA,2024,5,5,0,0,0
-West LA,2024,6,8,0,0,0
-West LA,2024,7,12,1,1,1
-West LA,2024,8,7,0,0,0
-West LA,2024,9,6,0,0,0
-West LA,2024,10,13,0,0,0
+West LA,2024,5,4,0,0,0
+West LA,2024,6,5,0,0,0
+West LA,2024,7,9,1,1,1
+West LA,2024,8,6,0,0,0
+West LA,2024,9,5,0,0,0
+West LA,2024,10,9,0,0,0
 West LA,2024,11,11,0,0,0
 West LA,2024,12,6,0,0,0
-West Valley,2020,1,50,10,14,6
-West Valley,2020,2,27,8,10,5
-West Valley,2020,3,26,5,7,6
-West Valley,2020,4,31,8,9,4
-West Valley,2020,5,37,9,14,3
-West Valley,2020,6,45,13,16,5
-West Valley,2020,7,23,5,9,2
-West Valley,2020,8,22,6,12,3
-West Valley,2020,9,31,9,11,2
-West Valley,2020,10,19,3,6,3
-West Valley,2020,11,25,4,9,7
-West Valley,2020,12,26,6,10,2
-West Valley,2021,1,24,10,11,2
-West Valley,2021,2,17,4,7,1
-West Valley,2021,3,21,8,9,5
-West Valley,2021,4,24,2,3,0
-West Valley,2021,5,27,11,12,5
-West Valley,2021,6,33,8,10,6
-West Valley,2021,7,31,9,10,4
-West Valley,2021,8,39,14,17,7
-West Valley,2021,9,33,6,8,5
-West Valley,2021,10,28,5,7,3
-West Valley,2021,11,21,5,5,2
-West Valley,2021,12,35,10,14,2
-West Valley,2022,1,34,11,13,6
-West Valley,2022,2,35,7,11,3
-West Valley,2022,3,28,6,8,4
-West Valley,2022,4,45,13,14,7
-West Valley,2022,5,35,6,10,5
-West Valley,2022,6,41,15,19,8
-West Valley,2022,7,41,12,16,5
-West Valley,2022,8,36,10,16,7
-West Valley,2022,9,40,12,15,8
-West Valley,2022,10,49,15,17,6
-West Valley,2022,11,37,10,11,3
-West Valley,2022,12,51,14,19,8
-West Valley,2023,1,45,8,10,4
-West Valley,2023,2,35,7,12,5
-West Valley,2023,3,37,10,15,5
-West Valley,2023,4,35,9,15,1
-West Valley,2023,5,31,7,12,3
-West Valley,2023,6,38,12,17,8
-West Valley,2023,7,31,9,13,4
-West Valley,2023,8,31,1,7,4
-West Valley,2023,9,46,12,17,10
-West Valley,2023,10,28,10,11,1
-West Valley,2023,11,46,12,18,4
-West Valley,2023,12,37,9,11,4
-West Valley,2024,1,40,6,11,2
-West Valley,2024,2,29,8,11,5
-West Valley,2024,3,24,9,10,2
-West Valley,2024,4,26,10,12,2
-West Valley,2024,5,14,1,2,2
-West Valley,2024,6,10,1,1,2
-West Valley,2024,7,5,0,0,0
-West Valley,2024,8,12,0,2,1
+West Valley,2020,1,41,10,14,5
+West Valley,2020,2,23,7,9,4
+West Valley,2020,3,22,5,6,4
+West Valley,2020,4,23,4,5,3
+West Valley,2020,5,25,7,10,2
+West Valley,2020,6,34,8,10,3
+West Valley,2020,7,18,4,7,2
+West Valley,2020,8,21,6,12,3
+West Valley,2020,9,24,6,8,1
+West Valley,2020,10,17,2,5,3
+West Valley,2020,11,23,4,8,7
+West Valley,2020,12,21,5,7,0
+West Valley,2021,1,18,7,8,1
+West Valley,2021,2,10,2,4,0
+West Valley,2021,3,16,7,8,5
+West Valley,2021,4,17,2,3,0
+West Valley,2021,5,19,6,7,4
+West Valley,2021,6,25,6,6,5
+West Valley,2021,7,24,6,7,3
+West Valley,2021,8,25,9,11,4
+West Valley,2021,9,25,3,5,2
+West Valley,2021,10,20,2,3,1
+West Valley,2021,11,16,4,4,2
+West Valley,2021,12,27,8,11,2
+West Valley,2022,1,25,6,7,4
+West Valley,2022,2,26,6,8,3
+West Valley,2022,3,21,4,6,2
+West Valley,2022,4,32,6,7,7
+West Valley,2022,5,25,4,8,3
+West Valley,2022,6,33,12,16,6
+West Valley,2022,7,32,10,13,4
+West Valley,2022,8,29,6,12,4
+West Valley,2022,9,31,8,11,6
+West Valley,2022,10,35,13,14,5
+West Valley,2022,11,25,6,7,3
+West Valley,2022,12,41,12,15,8
+West Valley,2023,1,33,7,8,3
+West Valley,2023,2,28,6,9,3
+West Valley,2023,3,32,10,14,4
+West Valley,2023,4,29,7,12,1
+West Valley,2023,5,25,5,9,1
+West Valley,2023,6,29,10,14,7
+West Valley,2023,7,22,7,10,2
+West Valley,2023,8,27,1,7,3
+West Valley,2023,9,35,9,12,7
+West Valley,2023,10,19,7,8,1
+West Valley,2023,11,34,9,15,2
+West Valley,2023,12,28,8,10,4
+West Valley,2024,1,32,5,9,2
+West Valley,2024,2,17,5,7,5
+West Valley,2024,3,17,7,8,2
+West Valley,2024,4,21,9,10,1
+West Valley,2024,5,8,1,2,0
+West Valley,2024,6,7,1,1,1
+West Valley,2024,7,3,0,0,0
+West Valley,2024,8,9,0,1,1
 West Valley,2024,9,1,0,0,0
 West Valley,2024,10,3,0,0,0
-West Valley,2024,11,9,0,0,0
+West Valley,2024,11,6,0,0,0
 West Valley,2024,12,4,0,0,0
-Wilshire,2020,1,42,10,14,4
-Wilshire,2020,2,42,9,13,1
-Wilshire,2020,3,36,11,15,2
-Wilshire,2020,4,27,9,12,4
-Wilshire,2020,5,38,9,10,3
-Wilshire,2020,6,41,12,20,6
-Wilshire,2020,7,36,14,15,4
-Wilshire,2020,8,32,9,12,1
-Wilshire,2020,9,35,11,12,1
-Wilshire,2020,10,45,8,14,1
-Wilshire,2020,11,31,12,14,5
-Wilshire,2020,12,32,10,11,3
-Wilshire,2021,1,44,6,8,4
-Wilshire,2021,2,27,10,10,5
-Wilshire,2021,3,26,6,6,1
-Wilshire,2021,4,30,6,12,4
-Wilshire,2021,5,41,15,17,4
-Wilshire,2021,6,26,5,7,1
-Wilshire,2021,7,28,8,8,0
-Wilshire,2021,8,33,8,9,5
-Wilshire,2021,9,32,13,15,3
-Wilshire,2021,10,34,8,11,2
-Wilshire,2021,11,43,8,10,2
-Wilshire,2021,12,36,8,10,1
-Wilshire,2022,1,38,5,8,2
-Wilshire,2022,2,35,6,8,3
-Wilshire,2022,3,30,13,14,0
-Wilshire,2022,4,35,6,8,0
-Wilshire,2022,5,39,9,11,3
-Wilshire,2022,6,28,6,8,4
-Wilshire,2022,7,31,11,11,1
-Wilshire,2022,8,26,4,5,0
-Wilshire,2022,9,39,7,9,4
-Wilshire,2022,10,35,12,15,1
-Wilshire,2022,11,28,6,8,1
-Wilshire,2022,12,36,2,7,1
-Wilshire,2023,1,25,7,11,1
-Wilshire,2023,2,36,8,11,3
-Wilshire,2023,3,39,11,13,3
-Wilshire,2023,4,29,7,11,2
-Wilshire,2023,5,39,9,11,1
-Wilshire,2023,6,33,7,7,1
-Wilshire,2023,7,36,8,12,0
-Wilshire,2023,8,38,13,16,2
-Wilshire,2023,9,29,11,11,2
-Wilshire,2023,10,36,12,15,2
-Wilshire,2023,11,30,4,7,1
-Wilshire,2023,12,34,9,11,0
-Wilshire,2024,1,24,7,7,1
-Wilshire,2024,2,28,5,8,1
-Wilshire,2024,3,26,11,11,2
-Wilshire,2024,4,14,0,0,0
-Wilshire,2024,5,11,0,0,1
-Wilshire,2024,6,7,0,1,0
-Wilshire,2024,7,13,0,0,0
-Wilshire,2024,8,12,0,0,0
-Wilshire,2024,9,10,0,0,0
-Wilshire,2024,10,5,0,0,0
-Wilshire,2024,11,7,1,1,0
-Wilshire,2024,12,8,0,0,0
+Wilshire,2020,1,33,7,11,4
+Wilshire,2020,2,30,4,8,1
+Wilshire,2020,3,27,6,9,2
+Wilshire,2020,4,21,6,8,2
+Wilshire,2020,5,27,5,5,3
+Wilshire,2020,6,31,10,16,4
+Wilshire,2020,7,25,9,10,2
+Wilshire,2020,8,27,9,12,1
+Wilshire,2020,9,29,7,8,1
+Wilshire,2020,10,32,7,10,1
+Wilshire,2020,11,23,8,9,4
+Wilshire,2020,12,25,7,8,2
+Wilshire,2021,1,34,3,5,3
+Wilshire,2021,2,16,7,7,3
+Wilshire,2021,3,20,5,5,1
+Wilshire,2021,4,22,6,10,3
+Wilshire,2021,5,29,11,12,3
+Wilshire,2021,6,16,3,5,1
+Wilshire,2021,7,20,7,7,0
+Wilshire,2021,8,24,7,8,4
+Wilshire,2021,9,24,12,13,2
+Wilshire,2021,10,23,6,9,0
+Wilshire,2021,11,35,7,9,2
+Wilshire,2021,12,28,8,10,1
+Wilshire,2022,1,28,3,4,1
+Wilshire,2022,2,24,4,6,2
+Wilshire,2022,3,24,9,10,0
+Wilshire,2022,4,27,4,5,0
+Wilshire,2022,5,31,8,10,2
+Wilshire,2022,6,22,6,7,3
+Wilshire,2022,7,21,6,6,0
+Wilshire,2022,8,19,3,3,0
+Wilshire,2022,9,29,6,6,2
+Wilshire,2022,10,28,10,13,1
+Wilshire,2022,11,24,6,6,1
+Wilshire,2022,12,30,1,6,1
+Wilshire,2023,1,15,4,5,0
+Wilshire,2023,2,29,7,10,1
+Wilshire,2023,3,28,8,9,2
+Wilshire,2023,4,23,6,9,2
+Wilshire,2023,5,32,9,9,1
+Wilshire,2023,6,24,5,5,1
+Wilshire,2023,7,23,6,9,0
+Wilshire,2023,8,27,8,11,1
+Wilshire,2023,9,17,8,8,0
+Wilshire,2023,10,32,8,11,1
+Wilshire,2023,11,21,2,5,1
+Wilshire,2023,12,24,4,6,0
+Wilshire,2024,1,20,6,6,1
+Wilshire,2024,2,21,4,7,1
+Wilshire,2024,3,21,10,10,2
+Wilshire,2024,4,9,0,0,0
+Wilshire,2024,5,7,0,0,1
+Wilshire,2024,6,5,0,1,0
+Wilshire,2024,7,11,0,0,0
+Wilshire,2024,8,8,0,0,0
+Wilshire,2024,9,7,0,0,0
+Wilshire,2024,10,4,0,0,0
+Wilshire,2024,11,4,1,1,0
+Wilshire,2024,12,7,0,0,0
