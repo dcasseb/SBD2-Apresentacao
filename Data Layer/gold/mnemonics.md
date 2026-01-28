@@ -3,324 +3,245 @@
 
 ---
 
-## Tables (Tabelas)
+## Tabelas (Tables)
 
-| Acronym | Description |
-|---------|-------------|
-| DIM | Dimension |
-| FCT | Fact |
-| AGG | Aggregation |
-| ARA | Area |
-| CRM | Crime |
-| WPN | Weapon |
-| PRM | Premise |
-| DAT | Date |
-| TIM | Time |
-| VCT | Victim |
-| HTS | Hotspots |
-| PRD | Period |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| FCR | fato_crimes | Tabela Fato de Crimes |
+| DAR | dim_area | Dimensão Área |
+| DCT | dim_crime_type | Dimensão Tipo de Crime |
+| DWP | dim_weapon | Dimensão Arma |
+| DPR | dim_premise | Dimensão Local |
+| DDT | dim_date | Dimensão Data |
+| DTM | dim_time | Dimensão Tempo |
+| DVC | dim_victim | Dimensão Vítima |
 
 ---
 
-## Keys (Chaves)
+## Chaves (Keys)
 
-| Acronym | Description |
-|---------|-------------|
-| SKA | Surrogate Key Area |
-| SKC | Surrogate Key Crime |
-| SKD | Surrogate Key Date |
-| SKP | Surrogate Key Premise |
-| SKT | Surrogate Key Time |
-| SKV | Surrogate Key Victim |
-| SKW | Surrogate Key Weapon |
-| NKC | Natural Key Crime |
-| PFK | Primary Foreign Key |
-
----
-
-## Attributes - Geographic (Atributos Geográficos)
-
-| Acronym | Description |
-|---------|-------------|
-| ARC | Area Code |
-| ARN | Area Name |
-| REG | Region |
-| LAT | Latitude |
-| LON | Longitude |
-| GRD | Grid |
-| LOC | Location |
-| DST | District |
-| GEO | Geographic |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| SKA | sk_area | Surrogate Key Área |
+| SKC | sk_crime | Surrogate Key Crime |
+| SKT | sk_crime_type | Surrogate Key Tipo Crime |
+| SKD | sk_date | Surrogate Key Data |
+| SKH | sk_time | Surrogate Key Hora |
+| SKV | sk_victim | Surrogate Key Vítima |
+| SKW | sk_weapon | Surrogate Key Arma |
+| SKP | sk_premise | Surrogate Key Local |
+| NKC | nk_crime_id | Natural Key Crime |
 
 ---
 
-## Attributes - Crime (Atributos de Crime)
+## Atributos Geográficos (Geographic)
 
-| Acronym | Description |
-|---------|-------------|
-| CRC | Crime Code |
-| CRD | Crime Description |
-| CAT | Category |
-| SVR | Severity |
-| VIO | Violent |
-| LVL | Level |
-| STS | Status |
-| CLS | Closed |
-| TYP | Type |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| ARC | area_code | Código da Área |
+| ARN | area_name | Nome da Área |
+| REG | region | Região |
+| LAT | latitude | Latitude |
+| LON | longitude | Longitude |
 
 ---
 
-## Attributes - Temporal (Atributos Temporais)
+## Atributos de Crime (Crime)
 
-| Acronym | Description |
-|---------|-------------|
-| YEA | Year |
-| QTR | Quarter |
-| MON | Month |
-| WEK | Week |
-| DAY | Day |
-| HOU | Hour |
-| MIN | Minute |
-| PRD | Period |
-| WKD | Weekday |
-| WKN | Weekend |
-| HOL | Holiday |
-| RSH | Rush Hour |
-| FDT | Full Date |
-| FTM | Full Time |
-| DOM | Day of Month |
-| DOW | Day of Week |
-| WOY | Week of Year |
-| MNM | Month Name |
-| DNM | Day Name |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| CRC | crime_code | Código do Crime |
+| CRD | crime_description | Descrição do Crime |
+| CAT | crime_category | Categoria do Crime |
+| SVL | severity_level | Nível de Severidade |
+| ISV | is_violent | É Violento |
 
 ---
 
-## Attributes - Victim (Atributos de Vítima)
+## Atributos Temporais (Temporal)
 
-| Acronym | Description |
-|---------|-------------|
-| AGE | Age |
-| AGG | Age Group |
-| SEX | Sex |
-| DSC | Descent |
-| DSD | Descent Description |
-| DEM | Demographic |
-| AVA | Average Victim Age |
-
----
-
-## Attributes - Weapon (Atributos de Arma)
-
-| Acronym | Description |
-|---------|-------------|
-| WPC | Weapon Code |
-| WPD | Weapon Description |
-| WPC | Weapon Category |
-| LTH | Lethality |
-| FRM | Firearm |
-| BLD | Blade |
-| BLN | Blunt |
-| PHY | Physical |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| FDT | full_date | Data Completa |
+| YEA | year | Ano |
+| QTR | quarter | Trimestre |
+| MON | month | Mês |
+| MNM | month_name | Nome do Mês |
+| WOY | week_of_year | Semana do Ano |
+| DOM | day_of_month | Dia do Mês |
+| DOW | day_of_week | Dia da Semana |
+| DNM | day_name | Nome do Dia |
+| HOU | hour | Hora |
+| PRD | period_of_day | Período do Dia |
+| ISW | is_weekend | É Fim de Semana |
+| ISH | is_holiday | É Feriado |
+| ISR | is_rush_hour | É Horário de Pico |
 
 ---
 
-## Attributes - Premise (Atributos de Local)
+## Atributos de Vítima (Victim)
 
-| Acronym | Description |
-|---------|-------------|
-| PMC | Premise Code |
-| PMD | Premise Description |
-| PMC | Premise Category |
-| PUB | Public |
-| RSD | Residential |
-| COM | Commercial |
-| OTH | Other |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| AGG | age_group | Faixa Etária |
+| SEX | sex | Sexo |
+| DSC | descent | Descendência/Etnia |
 
 ---
 
-## Measures (Medidas)
+## Atributos de Arma (Weapon)
 
-| Acronym | Description |
-|---------|-------------|
-| TOT | Total |
-| CNT | Count |
-| SUM | Sum |
-| AVG | Average |
-| MIN | Minimum |
-| MAX | Maximum |
-| PCT | Percentage |
-| RAT | Rate |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| WPC | weapon_code | Código da Arma |
+| WPD | weapon_description | Descrição da Arma |
+| WCA | weapon_category | Categoria da Arma |
+| LTL | lethality_level | Nível de Letalidade |
 
 ---
 
-## Crime Metrics (Métricas de Crime)
+## Atributos de Local (Premise)
 
-| Acronym | Description |
-|---------|-------------|
-| TCR | Total Crimes |
-| VCR | Violent Crimes |
-| PCR | Property Crimes |
-| WCR | Weapon Crimes |
-| CCR | Closed Cases |
-| WDC | Weekday Crimes |
-| WNC | Weekend Crimes |
-| UTC | Unique Types Count |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| PMC | premise_code | Código do Local |
+| PMD | premise_description | Descrição do Local |
+| PCA | premise_category | Categoria do Local |
+| ISP | is_public | É Público |
 
 ---
 
-## Boolean Flags (Flags Booleanas)
+## Métricas e Agregações (Metrics)
 
-| Acronym | Description |
-|---------|-------------|
-| ISV | Is Violent |
-| ISW | Is Weekend |
-| ISH | Is Holiday |
-| ISR | Is Rush Hour |
-| ISP | Is Public |
-| ISC | Is Closed |
-| HSW | Has Weapon |
-
----
-
-## Common Terms (Termos Comuns)
-
-| Acronym | Description |
-|---------|-------------|
-| DWH | Data Warehouse |
-| ETL | Extract Transform Load |
-| STR | Star Schema |
-| SNF | Snowflake Schema |
-| OBT | One Big Table |
-| SCD | Slowly Changing Dimension |
-| RPT | Report |
-| DSH | Dashboard |
-| KPI | Key Performance Indicator |
-| BI  | Business Intelligence |
-| DQL | Data Quality Level |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| TCR | total_crimes | Total de Crimes |
+| VCR | violent_crimes | Crimes Violentos |
+| PCR | property_crimes | Crimes Patrimoniais |
+| TOC | total_occurrences | Total de Ocorrências |
+| TUS | total_uso | Total de Uso |
+| TVT | total_vitimas | Total de Vítimas |
+| PCT | percentual | Percentual |
+| PCV | pct_violent | Percentual Violento |
+| PCD | pct_diff_from_avg | Diferença Percentual da Média |
+| AVG | avg_monthly_crimes | Média Mensal de Crimes |
+| CRC | crime_count | Contagem de Crimes |
 
 ---
 
-## Data Types (Tipos de Dados)
+## Campos Calculados (CTEs)
 
-| Acronym | Description |
-|---------|-------------|
-| INT | Integer |
-| DEC | Decimal |
-| VAR | Varchar |
-| CHR | Char |
-| BOL | Boolean |
-| DAT | Date |
-| TSP | Timestamp |
-| TIM | Time |
-| SRL | Serial |
-
----
-
-## Operations (Operações)
-
-| Acronym | Description |
-|---------|-------------|
-| SEL | Select |
-| INS | Insert |
-| UPD | Update |
-| DEL | Delete |
-| JON | Join |
-| GRP | Group By |
-| ORD | Order By |
-| FLT | Filter |
-| AGR | Aggregate |
-| TRN | Transform |
-| LDG | Loading |
-| EXT | Extract |
+| Mnemônico | Nome SQL | Descrição |
+|-----------|----------|-----------|
+| RIC | rank_in_category | Ranking na Categoria |
+| OVR | overall_rank | Ranking Geral |
+| VRT | violent_rate | Taxa de Violência |
+| RSK | risk_level | Nível de Risco |
+| HSL | hotspot_level | Nível de Hotspot |
+| HSD | hotspot_decile | Decil do Hotspot |
+| YOY | yoy_growth | Crescimento Ano a Ano |
+| YOV | yoy_violent_growth | Crescimento Violento YoY |
+| TRD | trend | Tendência |
+| STS | status | Status |
+| PYC | prev_year_crimes | Crimes Ano Anterior |
+| PYV | prev_year_violent | Violentos Ano Anterior |
 
 ---
 
-## Schema Objects (Objetos de Schema)
+## CTEs em consultas.sql
 
-| Acronym | Description |
-|---------|-------------|
-| TBL | Table |
-| VEW | View |
-| IDX | Index |
-| SEQ | Sequence |
-| CON | Constraint |
-| FKY | Foreign Key |
-| PKY | Primary Key |
-| UNQ | Unique |
-| CHK | Check |
-| DFT | Default |
-
----
-
-## Analysis Areas (Áreas de Análise)
-
-| Acronym | Description |
-|---------|-------------|
-| TMP | Temporal Analysis |
-| GEO | Geographic Analysis |
-| DEM | Demographic Analysis |
-| TRN | Trend Analysis |
-| PTN | Pattern Analysis |
-| COR | Correlation Analysis |
-| SGM | Segmentation |
-| CLF | Classification |
-| PRD | Prediction |
+| Mnemônico | Nome SQL | Consulta |
+|-----------|----------|----------|
+| MST | monthly_stats | CTE 12 - Estatísticas Mensais |
+| MAV | monthly_avg | CTE 12 - Média Mensal |
+| CRK | crime_ranking | CTE 13 - Ranking de Crimes |
+| VPR | victim_profile | CTE 14 - Perfil de Vítima |
+| CLO | crime_locations | CTE 15 - Localizações |
+| HCL | hotspot_classification | CTE 15 - Classificação Hotspots |
+| YCR | yearly_crimes | CTE 16 - Crimes Anuais |
+| YOY | year_over_year | CTE 16 - Comparação Anual |
+| GCA | growth_calculation | CTE 16 - Cálculo Crescimento |
 
 ---
 
-## Specific Tables Reference
+## Aliases em consultas.sql
 
-### Dimensions
-| Acronym | Full Table Name |
-|---------|-----------------|
-| DAR | dim_area |
-| DCT | dim_crime_type |
-| DWP | dim_weapon |
-| DPR | dim_premise |
-| DDT | dim_date |
-| DTM | dim_time |
-| DVC | dim_victim |
-
-### Fact Tables
-| Acronym | Full Table Name |
-|---------|-----------------|
-| FCR | fato_crimes |
-
-### Aggregations
-| Acronym | Full Table Name |
-|---------|-----------------|
-| CAP | agg_crimes_area_period |
-| CTY | agg_crimes_type_year |
-| CHT | agg_crime_hotspots |
+| Mnemônico | Alias SQL | Tabela Original |
+|-----------|-----------|-----------------|
+| fc | fc | fato_crimes |
+| da | da | dim_area |
+| dct | dct | dim_crime_type |
+| dd | dd | dim_date |
+| dt | dt | dim_time |
+| dv | dv | dim_victim |
+| dw | dw | dim_weapon |
+| dp | dp | dim_premise |
+| ms | ms | monthly_stats (CTE) |
+| ma | ma | monthly_avg (CTE) |
 
 ---
 
-## Usage Examples
+## Tipos de Dados (Data Types)
 
-### Table Reference
+| Mnemônico | Tipo SQL | Descrição |
+|-----------|----------|-----------|
+| SRL | SERIAL | Auto-incremento |
+| INT | INTEGER | Inteiro |
+| BIG | BIGINT | Inteiro Grande |
+| DEC | DECIMAL | Decimal |
+| NUM | NUMERIC | Numérico |
+| VAR | VARCHAR | Texto Variável |
+| CHR | CHAR | Caractere Fixo |
+| BOL | BOOLEAN | Booleano |
+| DAT | DATE | Data |
+| TIM | TIME | Hora |
+| TSP | TIMESTAMP | Data e Hora |
+
+---
+
+## Funções SQL Usadas
+
+| Mnemônico | Função SQL | Descrição |
+|-----------|------------|-----------|
+| CNT | COUNT(*) | Contagem |
+| SUM | SUM() | Soma |
+| AVG | AVG() | Média |
+| RND | ROUND() | Arredondamento |
+| CAS | CASE WHEN | Condicional |
+| LAG | LAG() | Valor Anterior |
+| RNK | RANK() | Ranking |
+| ROW | ROW_NUMBER() | Número de Linha |
+| NTL | NTILE() | Divisão em Grupos |
+| PRC | PERCENTILE_CONT() | Percentil |
+| OVR | OVER() | Janela |
+| PTN | PARTITION BY | Particionamento |
+
+---
+
+## Exemplos de Uso
+
+### Referência de Tabela
 ```sql
--- Instead of: SELECT * FROM gold.dim_area
--- Reference: DAR = dim_area
+-- SELECT * FROM gold.fato_crimes fc
+-- fc = alias para FCR (fato_crimes)
 ```
 
-### Column Reference
+### Referência de Coluna
 ```sql
--- SKA = Surrogate Key Area (sk_area)
--- ARC = Area Code (area_code)
--- ARN = Area Name (area_name)
+-- da.area_name → ARN (Area Name)
+-- dd.year → YEA (Year)
+-- fc.is_violent → ISV (Is Violent)
 ```
 
-### Measure Reference
+### Referência de Métrica
 ```sql
--- TCR = Total Crimes
--- VCR = Violent Crimes
--- AVA = Average Victim Age
+-- COUNT(*) as total_crimes → TCR
+-- SUM(CASE WHEN fc.is_violent...) as violent_crimes → VCR
 ```
 
 ---
 
-**Version:** 1.0
-**Date:** 2026-01-26
-**Purpose:** Standardized 3-letter mnemonics for Gold layer documentation
+**Versão:** 2.0
+**Data:** 2026-01-28
+**Propósito:** Mnemônicos padronizados baseados em consultas.sql
 **Schema:** gold
