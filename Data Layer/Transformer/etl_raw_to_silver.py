@@ -41,10 +41,10 @@ POSTGRES_HOST = os.getenv("POSTGRES_HOST", "localhost")
 POSTGRES_PORT = os.getenv("POSTGRES_PORT", "5432")
 DB_URL = f"postgresql+psycopg2://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
 
-print(f"📁 Projeto: {PROJECT_ROOT}")
-print(f"📥 Raw: {RAW_PATH}")
-print(f"🧱 DDL: {DDL_PATH}")
-print(f"🗄️  DB: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")
+print(f"Projeto: {PROJECT_ROOT}")
+print(f"Raw: {RAW_PATH}")
+print(f"DDL: {DDL_PATH}")
+print(f"DB: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")
 
 
 # In[ ]:
@@ -67,7 +67,7 @@ with engine.begin() as conn:
         if stmt:
             conn.exec_driver_sql(stmt)
 
-print("✅ Conexão Postgre pronta e DDL aplicado")
+print("Conexão Postgre pronta e DDL aplicado")
 
 
 # In[ ]:
@@ -75,8 +75,8 @@ print("✅ Conexão Postgre pronta e DDL aplicado")
 
 # Carregar dados Raw
 df = pd.read_csv(RAW_PATH)
-print(f"✅ Dados Raw carregados: {len(df):,} registros")
-print(f"📋 Colunas: {len(df.columns)}")
+print(f"Dados Raw carregados: {len(df):,} registros")
+print(f"Colunas: {len(df.columns)}")
 df.head(3)
 
 
@@ -90,7 +90,7 @@ df.head(3)
 
 
 # Limpeza de dados
-print("🧹 Aplicando limpeza...")
+print("Aplicando limpeza...")
 
 df_clean = df.copy()
 
@@ -123,7 +123,7 @@ df_clean = df_clean[~df_clean['LOCATION'].isna()]
 df_clean = df_clean[~df_clean['Premis Desc'].isna()]
 print(f"   Após filtro de localização: {len(df_clean):,}")
 
-print(f"\n✅ Limpeza concluída: {len(df):,} → {len(df_clean):,} ({100*len(df_clean)/len(df):.1f}%)")
+print(f"\nLimpeza concluída: {len(df):,} → {len(df_clean):,} ({100*len(df_clean)/len(df):.1f}%)")
 
 
 # In[ ]:
@@ -202,14 +202,14 @@ def get_weapon_category(desc):
     else: 
         return 'Other Weapon'
 
-print("✅ Funções de transformação definidas")
+print("Funções de transformação definidas")
 
 
 # In[ ]:
 
 
 # Aplicar transformações
-print("🔄 Aplicando transformações...")
+print("Aplicando transformações...")
 
 # Converter datas
 df_clean['date_temp'] = pd.to_datetime(df_clean['DATE OCC'], format='%m/%d/%Y %I:%M:%S %p', errors='coerce')
@@ -294,7 +294,7 @@ silver['quarter'] = df_clean['date_temp'].dt.quarter.values
 # Metadados
 silver['collected_at'] = datetime.now()
 
-print(f"✅ Transformações aplicadas: {len(silver.columns)} colunas criadas")
+print(f"Transformações aplicadas: {len(silver.columns)} colunas criadas")
 
 
 # In[ ]:
@@ -318,11 +318,11 @@ silver.to_sql(
  )
 
 print("\n" + "="*50)
-print("✅ ETL Raw → Silver concluído (PostgreSQL)!")
+print("ETL Raw → Silver concluído (PostgreSQL)!")
 print("="*50)
-print(f"\n📊 Resumo:")
+print(f"\nResumo:")
 print(f"   Raw: {len(df):,} registros")
 print(f"   Silver: {len(silver):,} registros")
 print(f"   Redução: {(1 - len(silver)/len(df))*100:.1f}%")
-print(f"\n🗄️  Base carregada: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")
+print(f"\nBase carregada: {POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}")
 
