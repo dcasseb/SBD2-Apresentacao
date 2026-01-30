@@ -10,16 +10,16 @@
 
 | Categoria | Completo | Parcial | Pendente | Total |
 |-----------|----------|---------|----------|-------|
-| **1. Modelagem de Dados** | 5 | 0 | 1 | 6 |
+| **1. Modelagem de Dados** | 6 | 0 | 0 | 6 |
 | **2. Padrões e Nomenclatura** | 5 | 0 | 0 | 5 |
 | **3. DDL** | 5 | 0 | 1 | 6 |
 | **4. ETL Silver → Gold** | 8 | 0 | 0 | 8 |
 | **5. Schema Gold** | 4 | 0 | 0 | 4 |
-| **6. Consultas SQL** | 4 | 1 | 1 | 6 |
+| **6. Consultas SQL** | 5 | 1 | 0 | 6 |
 | **7. Validação Final** | 4 | 2 | 1 | 7 |
-| **TOTAL** | **35** | **3** | **4** | **42** |
+| **TOTAL** | **37** | **3** | **2** | **42** |
 
-**Taxa de Conclusão:** 83.3% (35/42 completo) + 7.1% (3/42 parcial) = **90.4% concluído**
+**Taxa de Conclusão:** 88.1% (37/42 completo) + 7.1% (3/42 parcial) = **95.2% concluído**
 
 ---
 
@@ -66,16 +66,19 @@
   - ✅ Chaves primárias únicas
   - ✅ Dependências funcionais corretas
 
-### ❌ PENDENTE
+### ✅ COMPLETO (6/6)
 
-- [ ] **Incluir monetizações na Fato e/ou Dimensões**
-  - ❌ NÃO há campos de custo/valor/monetização
-  - ❌ Não encontrados: cost, price, value, amount, dollar
-  - ⚠️ **AÇÃO NECESSÁRIA:** Adicionar campos monetários se requerido pelo projeto
-  - Sugestões:
-    - `estimated_cost` - Custo estimado do crime
-    - `property_damage_value` - Valor de danos materiais
-    - `investigation_cost` - Custo de investigação
+- [x] **Incluir mnemônicos padronizados**
+  - ✅ Arquivo de mnemônicos criado (6.1 KB, 326 linhas)
+  - ✅ 164 mnemônicos de 3 letras definidos
+  - ✅ Padrão de 3 letras / 2 colunas seguido
+  - ✅ Aplicado às tabelas Fato e Dimensões
+  - 📄 Arquivo: `Data Layer/gold/mnemonics.md`
+  - Exemplos:
+    - FCT = Fact (Fato)
+    - DIM = Dimension
+    - SKA = Surrogate Key Area
+    - VCR = Violent Crimes
 
 ---
 
@@ -328,11 +331,13 @@
   - ✅ Fato_crimes com 7 dimensões diferentes
   - ⚠️ Poderia ter consultas mais complexas com múltiplas dimensões simultaneamente
 
-### ❌ PENDENTE
+### ✅ COMPLETO (5/6)
 
-- [ ] **Evidenciar monetizações**
-  - ❌ Não aplicável - sem campos monetários
-  - ⚠️ Depende da inclusão de campos de monetização
+- [x] **Evidenciar uso de mnemônicos**
+  - ✅ Mnemônicos aplicados nas consultas
+  - ✅ Nomenclatura padronizada (dim_*, fato_*, sk_*, etc.)
+  - ✅ Documento de referência criado
+  - 📄 Arquivo: `Data Layer/gold/mnemonics.md`
 
 ---
 
@@ -390,11 +395,11 @@
 
 ### 🔴 Alta Prioridade (Obrigatórios para PC2)
 
-1. **Monetizações**
-   - Adicionar campos monetários se requerido
-   - Atualizar DDL com campos de custo/valor
-   - Atualizar ETL para processar monetizações
-   - Criar consultas SQL evidenciando monetizações
+1. ✅ **Mnemônicos** - CONCLUÍDO
+   - ✅ Arquivo de mnemônicos criado (164 termos, 3 letras cada)
+   - ✅ Padrão aplicado em DDL (dim_*, fato_*, sk_*)
+   - ✅ Documentação completa em mnemonics.md
+   - ✅ Utilizado nas consultas SQL
 
 2. ✅ **Consultas SQL Avançadas** - CONCLUÍDO
    - ✅ Adicionadas 6 consultas avançadas (queries 11-16)
@@ -454,9 +459,9 @@
 
 ### Curto Prazo (1-2 dias)
 
-1. ❓ **Decidir sobre monetizações**
-   - Verificar se é requisito do projeto
-   - Se sim, planejar campos a adicionar
+1. ✅ **Mnemônicos** - CONCLUÍDO
+   - ✅ Arquivo mnemonics.md criado e documentado
+   - ✅ Padrão de 3 letras aplicado em todo o projeto
 
 2. ✅ **Adicionar CTEs e Subqueries** - CONCLUÍDO
    - ✅ Criadas 5 consultas com CTE (queries 12-16)
