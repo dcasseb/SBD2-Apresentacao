@@ -1,0 +1,121 @@
+// ============================================
+// MEDIDAS DAX - CRIME DATA ANALYTICS
+// Gerado em: 2026-02-02 10:58:32
+// ============================================
+
+
+// MEDIDAS BÁSICAS
+Total Crimes = COUNTROWS(fato_crimes)
+
+Violent Crimes =
+CALCULATE(
+    [Total Crimes],
+    fato_crimes[is_violent] = TRUE()
+)
+
+Violent Crime Rate =
+DIVIDE([Violent Crimes], [Total Crimes], 0) * 100
+
+Average Crimes per Area =
+AVERAGEX(
+    VALUES(dim_area[area_name]),
+    [Total Crimes]
+)
+
+
+
+// MEDIDAS TEMPORAIS
+Crimes This Year =
+CALCULATE(
+    [Total Crimes],
+    YEAR(dim_date[full_date]) = YEAR(TODAY())
+)
+
+Crimes Last Year =
+CALCULATE(
+    [Total Crimes],
+    YEAR(dim_date[full_date]) = YEAR(TODAY()) - 1
+)
+
+YoY Change = [Crimes This Year] - [Crimes Last Year]
+
+YoY Change % =
+DIVIDE([YoY Change], [Crimes Last Year], 0) * 100
+
+Moving Average 3M =
+AVERAGEX(
+    DATESINPERIOD(
+        dim_date[full_date],
+        LASTDATE(dim_date[full_date]),
+        -3,
+        MONTH
+    ),
+    [Total Crimes]
+)
+
+
+
+// MEDIDAS GEOGRÁFICAS
+Most Dangerous Area =
+CALCULATE(
+    FIRSTNONBLANK(dim_area[area_name], 1),
+    TOPN(1, ALL(dim_area), [Total Crimes], DESC)
+)
+
+Area Rank =
+RANKX(
+    ALL(dim_area[area_name]),
+    [Total Crimes],
+    ,
+    DESC,
+    DENSE
+)
+
+Crime Density =
+DIVIDE(
+    [Total Crimes],
+    DISTINCTCOUNT(fato_crimes[latitude]) * DISTINCTCOUNT(fato_crimes[longitude]),
+    0
+)
+
+
+
+// MEDIDAS AVANÇADAS
+Risk Score =
+VAR ViolentRate = [Violent Crime Rate]
+VAR CrimeDensity = [Crime Density]
+VAR NormalizedViolence = DIVIDE(ViolentRate, 100, 0)
+VAR NormalizedDensity = DIVIDE(CrimeDensity, MAXX(ALL(dim_area), [Crime Density]), 0)
+RETURN (NormalizedViolence * 0.6) + (NormalizedDensity * 0.4)
+
+Crime Trend =
+VAR CurrentMonth = [Total Crimes]
+VAR PreviousMonth = CALCULATE([Total Crimes], DATEADD(dim_date[full_date], -1, MONTH))
+RETURN
+    SWITCH(
+        TRUE(),
+        CurrentMonth > PreviousMonth * 1.1, "📈 Crescendo",
+        CurrentMonth < PreviousMonth * 0.9, "📉 Diminuindo",
+        "➡️ Estável"
+    )
+
+Percentile 90 =
+PERCENTILEX.INC(
+    ALL(dim_area),
+    [Total Crimes],
+    0.9
+)
+
+Hotspot Classification =
+VAR CrimeCount = [Total Crimes]
+VAR P90 = [Percentile 90]
+RETURN
+    SWITCH(
+        TRUE(),
+        CrimeCount >= P90, "Hotspot Crítico",
+        CrimeCount >= P90 * 0.75, "Hotspot Alto",
+        CrimeCount >= P90 * 0.5, "Hotspot Médio",
+        "Área Normal"
+    )
+
+
